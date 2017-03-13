@@ -30,3 +30,9 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - links.md
+  - people.md
+  - presentation.md
+  - publications.md
+  - teaching.md
+  - research.md
