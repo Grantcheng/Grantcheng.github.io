@@ -4,12 +4,30 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Hong Cheng** received the B.S degree in electronic and information
+engineering from School of Communications and Electronics at Jiangxi Science
+and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.
+degree in Mathematics from the Department of Mathematics and Institute of
+Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now,
+he is a assistant professor at Shanghai LiXin University of Accounting and
+Finance. His research interests computational and theoretical neuroscience,
+include understanding of the relation between structure and functions of
+biological neuronal networks, discovery of potential mechanisms underlying
+information processing in the brain, and statistic and machine learning
+applications in medical image processing ,especially the quantile regression
+causality in neuronal network.  He is a member of the CCF.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## Contact Me
+
+**Office:**
+WenBo Building, Room 213
+
+Faculty of School of Statistics and Mathematics
+
+Shanghai LiXin University of Accounting and Finance, Pudong District, Shanghai, China
+
+**Email:** [chenghong@sfu.edu.cn](mailto:chenghong@sfu.edu.cn) |
+[clx_2010@sjtu.edu.cn](mailto:clx_2010@sjtu.edu.cn)
+
+
