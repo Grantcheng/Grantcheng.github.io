@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: with-photo
 title: About
 permalink: /about/
 ---
@@ -16,6 +16,17 @@ biological neuronal networks, discovery of potential mechanisms underlying
 information processing in the brain, and statistic and machine learning
 applications in medical image processing ,especially the quantile regression
 causality in neuronal network.  He is a member of the CCF.
+
+## Education
+
+* *9/2011-3/2015:* **Ph.D**, Department of Mathematics and Institute of Natural
+Science, Shanghai Jiao Tong University.
+
+* *9/2009-7/2011:* **Master Degree**, Department of Mathematics and Institute of
+Natural Science, Shanghai Jiao Tong University. (Master-PhD combined program)
+
+* *9/2004-7/2008:* **Bachelor Degree**, School of Communications and Electronics,
+Jiangxi Science and Technology Normal University.
 
 
 ## Contact Me
