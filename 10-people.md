@@ -6,9 +6,14 @@ permalink: /people/
 
 ## Group Members
 
-* Chenhao Zhou (2015 grade)
+### **Chenhao Zhou** (2015 grade)
 
-* Lei Chen (2015 grade)
+<img style="max-width:300px" src="/assets/people/chenhao-zhou.jpg" />
 
-* Yuhua Luo (2014 grade)
+### **Lei Chen** (2015 grade)
 
+<img style="max-width:300px" src="/assets/people/lei-chen.jpg" />
+
+### **Yuhua Luo** (2014 grade)
+
+![Photo of Yuhua Luo is Missing!](/assets/people/yuhua-luo.jpg)
