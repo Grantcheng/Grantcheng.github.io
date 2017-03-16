@@ -2,9 +2,9 @@
 layout: teaching
 ---
 
-# Business Statistics
+## Business Statistics
 
-## Slides
+### Slides
 
 Lesson 1:
 
@@ -14,7 +14,7 @@ Lesson 2:
 
 [http://pan.baidu.com/share/link?shareid=3743871284&uk=1616725824](http://pan.baidu.com/share/link?shareid=3743871284&uk=1616725824)
 
-## Homework
+### Homework
 
 Homework 1:
 
@@ -24,7 +24,7 @@ Homework 2:
 
 [http://pan.baidu.com/share/link?shareid=358542381&uk=1616725824](http://pan.baidu.com/share/link?shareid=358542381&uk=1616725824)
 
-## Textbook
+### Textbook
 
 [http://pan.baidu.com/share/link?shareid=437137472&uk=1616725824](http://pan.baidu.com/share/link?shareid=437137472&uk=1616725824)
 

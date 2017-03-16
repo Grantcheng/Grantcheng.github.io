@@ -2,9 +2,9 @@
 layout: teaching
 ---
 
-# Statistics
+## Statistics
 
-## Slides
+### Slides
 
 Lesson 1:
 
