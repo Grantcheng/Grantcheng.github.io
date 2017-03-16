@@ -16,4 +16,4 @@ permalink: /people/
 
 ### **Yuhua Luo** (2014 grade)
 
-![Photo of Yuhua Luo is Missing!](/assets/people/yuhua-luo.jpg)
+<img style="max-width:300px" src="/assets/people/yuhua-luo.jpg" />
