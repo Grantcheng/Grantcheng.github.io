@@ -17,3 +17,4 @@ permalink: /people/
 ### **Yuhua Luo** (2014 grade)
 
 <img style="max-width:300px" src="/assets/people/yuhua-luo.jpg" />
+
