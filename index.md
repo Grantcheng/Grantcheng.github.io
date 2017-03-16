@@ -16,7 +16,8 @@ include understanding of the relation between structure and functions of
 biological neuronal networks, discovery of potential mechanisms underlying
 information processing in the brain, and statistic and machine learning
 applications in medical image processing ,especially the quantile regression
-causality in neuronal network.  He is a member of the CCF.
+causality in neuronal network.  He is a member of the CCF, 2016 Shanghai
+Sailing Scholar.
 
 ## Recent News
 

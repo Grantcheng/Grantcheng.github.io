@@ -38,6 +38,8 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **“Object Extraction By Superpixel Grouping”**, The Ph.D. Candidate Forum on Computational and Applied Mathematics, Department of Mathematics, Ministry of Education Key Laboratory of Scientific and Engineering Computing, and Institute of Natural Sciences, Shanghai Jiao Tong University, *Oct.13, 2012*
 
+* **“大脑神经元网络的因果关系重建”**, The Seminar of Young Scholars on Complex Network, University of Shanghai for Science and Technology, *May.13, 2015*
+
 ## Projects
 
 * Shanghai Sailing Program、16YF1415900、**“Extended Granger Causality for Hodgkin-Huxley Neuronal Network”**, *2016/6-2019/5*, PI
