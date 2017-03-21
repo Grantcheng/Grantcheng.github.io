@@ -19,12 +19,6 @@ applications in medical image processing ,especially the quantile regression
 causality in neuronal network.  He is a member of the CCF, 2016 Shanghai
 "Sailing Scholar".
 
-## Recent News
-
-* *01/09/2017*, He will as a visiting scholar by CSC @ CIMS-NYU ( Courant
-Institute of Mathematical Sciences, 2017.09-2018.09) New York, U.S.A. in the
-group of Prof. David Cai
-
 ## Contact Me
 
 **Office:**
