@@ -22,6 +22,38 @@ Lesson 4:
 
 [http://pan.baidu.com/share/link?shareid=2658666803&uk=1616725824](http://pan.baidu.com/share/link?shareid=2658666803&uk=1616725824)
 
+Lesson 5：
+
+[http://pan.baidu.com/share/link?shareid=865279811&uk=1616725824](http://pan.baidu.com/share/link?shareid=865279811&uk=1616725824)
+
+[http://pan.baidu.com/share/link?shareid=3624464261&uk=1616725824](http://pan.baidu.com/share/link?shareid=3624464261&uk=1616725824)
+
+Lesson 6：
+
+[http://pan.baidu.com/share/link?shareid=947175687&uk=1616725824](http://pan.baidu.com/share/link?shareid=947175687&uk=1616725824)
+
+[http://pan.baidu.com/share/link?shareid=4045411504&uk=1616725824](http://pan.baidu.com/share/link?shareid=4045411504&uk=1616725824)
+
+[http://pan.baidu.com/share/link?shareid=2072954177&uk=1616725824](http://pan.baidu.com/share/link?shareid=2072954177&uk=1616725824)
+
+Lesson 7：
+
+[http://pan.baidu.com/share/link?shareid=2786240413&uk=1616725824](http://pan.baidu.com/share/link?shareid=2786240413&uk=1616725824)
+
+[http://pan.baidu.com/share/link?shareid=1502607664&uk=1616725824](http://pan.baidu.com/share/link?shareid=1502607664&uk=1616725824)
+
+Lesson 8：
+
+[http://pan.baidu.com/share/link?shareid=2902403568&uk=1616725824](http://pan.baidu.com/share/link?shareid=2902403568&uk=1616725824)
+
+[http://pan.baidu.com/share/link?shareid=4045411504&uk=1616725824](http://pan.baidu.com/share/link?shareid=4045411504&uk=1616725824)
+
+Lesson 9：
+
+[http://pan.baidu.com/share/link?shareid=2361291593&uk=1616725824](http://pan.baidu.com/share/link?shareid=2361291593&uk=1616725824)
+
+[http://pan.baidu.com/share/link?shareid=717408507&uk=1616725824](http://pan.baidu.com/share/link?shareid=717408507&uk=1616725824)
+
 ### Homework
 
 Homework 1:
