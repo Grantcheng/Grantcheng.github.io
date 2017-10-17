@@ -19,6 +19,10 @@ applications in medical image processing ,especially the quantile regression
 causality in neuronal network.  He is a member of the CCF, 2016 Shanghai
 "Sailing Scholar".
 
+## Recent News
+
+* 07/10/2017-30/09/2018, Hong Cheng will as a visiting scholar at **CIMS-NYU ( Courant Institute of Mathematical Sciences**, 2017.09-2018.09) New York, U.S.A. in the group of Prof. David Cai 
+
 ## Contact Me
 
 **Office:**
