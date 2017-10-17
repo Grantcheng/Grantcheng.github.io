@@ -32,9 +32,15 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **Hong Cheng. (Working).** *Coherence and Stochastic resonance in stochastic Hodgkin-Huxley neuronal networks.*
 
-* **Hong Cheng, Qinlu Yin.** *The Impact of Religion on Corporate Earnings Persistence.* (Submitted to Journal of Industrial Engineering and Engineering Management)
+* **Hong Cheng, Qinlu Yin.** *The Impact of Religion on Corporate Earnings Persistence.* (**Submitted** to Journal of Industrial Engineering and Engineering Management)
+
+* **Hong Cheng, Wenjie Pan, Yifan Hu.** *A Study on the Relativity of East Asian Stock Market Based on Copula 's Improved Granger Causality Test in Quantiles.* (**Submitted** to Journal of Tongji & JueCe) 
+
+* **Hong Cheng, Yuhua Luo, Dashan Yang. (Preprint).** *The Influence of Individual and Environment Factors on University Students’ Internet Entrepreneurial Intention ------- An Investigation and Analysis Based on the Students from Universities in Shanghai.* 
 
 ## Presentations
+
+* **“Specification tests for Conditional Granger causality in quantiles”**, Workshop on Data Analysis and Nonlinear Dynamic System, Shanghai Lixin University of Accounting and Finance, *June. 27, 2017* 
 
 * **“Object Extraction By Superpixel Grouping”**, The Ph.D. Candidate Forum on Computational and Applied Mathematics, Department of Mathematics, Ministry of Education Key Laboratory of Scientific and Engineering Computing, and Institute of Natural Sciences, Shanghai Jiao Tong University, *Oct.13, 2012*
 
@@ -42,10 +48,16 @@ Information Technology, Nanning GuangXi, August. 2013
 
 ## Projects
 
-* Shanghai Sailing Program、16YF1415900、**“Extended Granger Causality for Hodgkin-Huxley Neuronal Network”**, *2016/6-2019/5*, PI
+* **Shanghai Sailing Program、16YF1415900**、“Extended Granger Causality for Hodgkin-Huxley Neuronal Network”, *2016/6-2019/5*, **PI**
 
-* Shanghai Young Teachers Training Funding Program、ZZSGJR15045、**“The Dynamics of Brain Neuron Model”**, *2016/6-2018/6*, PI
+* **Shanghai Young Teachers Training Funding Program、ZZSGJR15045**、“The Dynamics of Brain Neuron Model”, *2016/6-2018/6*, **PI**
 
-* National Natural Science Foundation of China、No. 11101275、**“The research and application of integrate-and-fire neuronal network”**, *2012/01-2014/12*, Participant
+* **Young Teachers Academic Funding Program of Shanghai Lixin University of Accounting and Finance**、“Granger causality in quantiles based dependence of Finance Markets”、*2017/6-2017/12*、**PI** 
+
+* **Teaching Reform Project of Shanghai Lixin University of Accounting and Finance、AW-12-2203-005062**、“The issue of Business Statistics curriculum reform”、*2017/05-2018/04*、**PI** 
+
+* **National Academic Competitions of Shanghai Lixin University of Accounting and Finance**、 “China University Student’s Statistical Contest in Modeling”、*2017/05-2017/10*、**PI** 
+
+* **National Natural Science Foundation of China、No. 11101275**、“The research and application of integrate-and-fire neuronal network”, *2012/01-2014/12*, **PI**
 
 
