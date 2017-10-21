@@ -58,6 +58,6 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **National Academic Competitions of Shanghai Lixin University of Accounting and Finance**、 “China University Student’s Statistical Contest in Modeling”、*2017/05-2017/10*、**PI** 
 
-* **National Natural Science Foundation of China、No. 11101275**、“The research and application of integrate-and-fire neuronal network”, *2012/01-2014/12*, **PI**
+* **National Natural Science Foundation of China、No. 11101275**、“The research and application of integrate-and-fire neuronal network”, *2012/01-2014/12*, **Participant**
 
 
