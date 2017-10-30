@@ -38,7 +38,7 @@ Faculty of School of Statistics and Mathematics
 
 Shanghai LiXin University of Accounting and Finance, Pudong District, Shanghai, China
 
-**Email:** [chenghong@sfu.edu.cn](mailto:chenghong@sfu.edu.cn) |
+**Email:** [hcheng@cims.nyu.edu](mailto:hcheng@cims.nyu.edu) |
 [clx_2010@sjtu.edu.cn](mailto:clx_2010@sjtu.edu.cn)
 
 
