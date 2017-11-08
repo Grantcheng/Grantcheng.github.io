@@ -5,25 +5,24 @@
 layout: home
 ---
 
-**Hong Cheng** received the B.S degree in electronic and information
-engineering from School of Communications and Electronics at Jiangxi Science
-and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.
-degree in Mathematics from the Department of Mathematics and Institute of
-Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now,
-he is an assistant professor at Shanghai LiXin University of Accounting and
-Finance. His research interests computational and theoretical neuroscience,
-include understanding of the relation between structure and functions of
-biological neuronal networks, discovery of potential mechanisms underlying
-information processing in the brain, and statistic and machine learning
-applications in medical image processing ,especially the quantile regression
-causality in neuronal network.  He is a member of the CCF, 2016 Shanghai
-"Sailing Scholar".
+**Hong Cheng** received the B.S degree in electronic and information engineering
+from School of Communications and Electronics at Jiangxi Science and Technology 
+Normal University, Nanchang, China, in 2008, and the Ph.D.degree in Mathematics 
+from the Department of Mathematics and Institute of Natural Science, Shanghai 
+Jiao Tong University, Shanghai, China, in 2015. Now, he is an assistant professor 
+at Shanghai LiXin University of Accounting and Finance. His research interests 
+computational and theoretical neuroscience, include understanding of the relation 
+between structure and functions of biological neuronal networks, discovery of 
+potential mechanisms underlying information processing in the brain, and statistic 
+and machine learning applications in medical image processing ,especially the 
+quantile regression causality in neuronal network.  He is a member of the CCF, 
+2016 Shanghai "Sailing Scholar".
 
 ## Recent News
 
-* 07/10/2017-30/09/2018, Hong Cheng will as a visiting scholar at **CIMS-NYU (Courant Institute of Mathematical Sciences**, 2017.09-2018.09) New York, U.S.A. in the group of Prof. David Cai 
+* 07/10/2017-30/09/2018, Hong Cheng will as a visiting scholar at **CIMS-NYU ( Courant Institute of Mathematical Sciences**, 2017.09-2018.09) New York, U.S.A. in the group of Prof. David Cai 
 
-* 28/11/2017-10/04/2018, Hong Cheng will go to **The Multiscale Bioimaging and Bioinformatics Laboratory (MBB), Tulane University** New Orleans, LA 70112, U.S.A. in the group of Prof. YuPing Wang 
+* 28/11/2017-10/04/2018, Hong Cheng will as research scientists **The Multiscale Bioimaging and Bioinformatics Laboratory (MBB), Tulane University** New Orleans, LA 70112, U.S.A. in the group of Prof. YuPing Wang 
 
 ## Contact Me
 
