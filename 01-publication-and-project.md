@@ -12,8 +12,8 @@ permalink: /publication-and-project/
 Detection”*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
 2014 (SCI)
 
-* **[IJPAM’15] Hong Cheng, Lan Guo.** *“Largest Lyapunov Exponent is critical to
-threshold and refractory period”*. Italian Journal of Pure and Applied
+* **[IJPAM’15] Hong Cheng, Lan Guo.** *“Local Largest Lyapunov Exponent is critical to
+threshold voltage and refractory period”*. Italian Journal of Pure and Applied
 Mathematics, Vol (34):189-200 June. 2015 (EI)
 
 ### Conferences
