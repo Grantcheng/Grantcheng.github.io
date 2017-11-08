@@ -10,7 +10,7 @@ layout: home
 
 * 07/10/2017-30/09/2018, Hong Cheng will as a visiting scholar at **CIMS-NYU ( Courant Institute of Mathematical Sciences**, 2017.09-2018.09) New York, U.S.A. in the group of Prof. David Cai 
 
-* 28/11/2017-10/04/2018, Hong Cheng will as research scientists **The Multiscale Bioimaging and Bioinformatics Laboratory (MBB), Tulane University** New Orleans, LA 70112, U.S.A. in the group of Prof. YuPing Wang 
+* 28/11/2017-10/04/2018, Hong Cheng will as a research scientist **The Multiscale Bioimaging and Bioinformatics Laboratory (MBB), Tulane University** New Orleans, LA 70112, U.S.A. in the group of Prof. YuPing Wang 
 
 ## Contact Me
 
