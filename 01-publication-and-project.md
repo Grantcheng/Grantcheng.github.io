@@ -52,6 +52,8 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **Shanghai Young Teachers Training Funding Program、ZZSGJR15045**、“The Dynamics of Brain Neuron Model”, *2016/6-2018/6*, **PI**
 
+* **The Construction Project of Statistics-A first level discipline,Shanghai Lixin University of Accounting and Finance**、“Nonparametric Granger Causality tests in quantiles”, *2017/10-2019/10*, **PI**
+
 * **Young Teachers Academic Funding Program of Shanghai Lixin University of Accounting and Finance**、“Granger causality in quantiles based dependence of Finance Markets”、*2017/6-2017/12*、**PI** 
 
 * **Teaching Reform Project of Shanghai Lixin University of Accounting and Finance、AW-12-2203-005062**、“The issue of Business Statistics curriculum reform”、*2017/05-2018/04*、**PI** 
