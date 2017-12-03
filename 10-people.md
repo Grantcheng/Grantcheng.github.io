@@ -20,9 +20,10 @@ permalink: /people/
 
 
 ## Collaborators
-### **Prof. David Cai** (My Advisor) (https://math.nyu.edu/~cai/)
-### **Prof. Douglas Zhou** (My Advisor) (http://ins.sjtu.edu.cn/people/zdz/)
-### **Prof. Yuping Wang** (My Advisor) (http://www2.tulane.edu/sse/bme/faculty/wang.cfm)
-### **Dr. Liwen Zhang** 
+### **Prof. David Cai** (Master, PhD and Visiting Advisor) (https://math.nyu.edu/~cai/)
+### **Prof. Douglas Zhou** (Master and PhD Advisor) (http://ins.sjtu.edu.cn/people/zdz/)
+### **Prof. Yuping Wang** (My Visiting Advisor) (http://www2.tulane.edu/sse/bme/faculty/wang.cfm)
+Prof Wang's Laboratory (http://www.tulane.edu/~wyp/)
+### **Dr. Liwen Zhang** （http://my.shu.edu.cn/Index.aspx?TID=2251）
 
 
