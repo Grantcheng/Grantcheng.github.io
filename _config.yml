@@ -22,9 +22,6 @@ url: "http://grantcheng.github.io" # the base hostname & protocol for your site,
 #twitter_username: jekyllrb
 github_username:  Grantcheng
 
-# Site creation time
-since: 2015
-
 # Build settings
 markdown: kramdown
 theme: minima
