@@ -20,6 +20,8 @@ Lesson 2（描述性统计-图表及概括性度量）:
 
 [https://pan.baidu.com/s/1c2O0sbY](https://pan.baidu.com/s/1c2O0sbY)
 
+[https://pan.baidu.com/s/1mi7pdsG](https://pan.baidu.com/s/1mi7pdsG)
+
 Lesson 3 (指数）:
 
 [https://pan.baidu.com/s/1eSztLcu](https://pan.baidu.com/s/1eSztLcu)
