@@ -8,7 +8,7 @@ layout: teaching
 
 Lesson 1:
 
-[http://pan.baidu.com/share/link?shareid=2528134230&uk=1616725824](http://pan.baidu.com/share/link?shareid=2528134230&uk=1616725824)
+[https://pan.baidu.com/s/1cqE7jo](https://pan.baidu.com/s/1cqE7jo)
 
 [http://pan.baidu.com/share/link?shareid=2316003731&uk=1616725824](http://pan.baidu.com/share/link?shareid=2316003731&uk=1616725824)
 
