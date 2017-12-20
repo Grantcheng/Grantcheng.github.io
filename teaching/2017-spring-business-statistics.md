@@ -8,68 +8,76 @@ layout: teaching
 
 Lesson 1:
 
-[http://pan.baidu.com/share/link?shareid=1915174697&uk=1616725824](http://pan.baidu.com/share/link?shareid=1915174697&uk=1616725824)
+[https://pan.baidu.com/s/1kVFyIZt](https://pan.baidu.com/s/1kVFyIZt)
+
+[https://pan.baidu.com/s/1o87kWY2](https://pan.baidu.com/s/1o87kWY2)
 
 Lesson 2:
 
-[http://pan.baidu.com/share/link?shareid=3743871284&uk=1616725824](http://pan.baidu.com/share/link?shareid=3743871284&uk=1616725824)
+[https://pan.baidu.com/s/1i4C4DaH](https://pan.baidu.com/s/1i4C4DaH)
 
 Lesson 3:
 
-[http://pan.baidu.com/share/link?shareid=94976246&uk=1616725824](http://pan.baidu.com/share/link?shareid=94976246&uk=1616725824)
+[https://pan.baidu.com/s/1mimWqIc](https://pan.baidu.com/s/1mimWqIc)
 
 Lesson 4:
 
-[http://pan.baidu.com/share/link?shareid=2658666803&uk=1616725824](http://pan.baidu.com/share/link?shareid=2658666803&uk=1616725824)
+[https://pan.baidu.com/s/1c6T12e](https://pan.baidu.com/s/1c6T12e)
 
 Lesson 5：
 
-[http://pan.baidu.com/share/link?shareid=865279811&uk=1616725824](http://pan.baidu.com/share/link?shareid=865279811&uk=1616725824)
+[https://pan.baidu.com/s/1eR86XMy](https://pan.baidu.com/s/1eR86XMy)
 
-[http://pan.baidu.com/share/link?shareid=3624464261&uk=1616725824](http://pan.baidu.com/share/link?shareid=3624464261&uk=1616725824)
+[https://pan.baidu.com/s/1pL1JrBl](https://pan.baidu.com/s/1pL1JrBl)
 
 Lesson 6：
 
-[http://pan.baidu.com/share/link?shareid=947175687&uk=1616725824](http://pan.baidu.com/share/link?shareid=947175687&uk=1616725824)
+[https://pan.baidu.com/s/1qXTlpYc](https://pan.baidu.com/s/1qXTlpYc)
 
-[http://pan.baidu.com/share/link?shareid=4045411504&uk=1616725824](http://pan.baidu.com/share/link?shareid=4045411504&uk=1616725824)
+[https://pan.baidu.com/s/1i5lG9FJ](https://pan.baidu.com/s/1i5lG9FJ)
 
-[http://pan.baidu.com/share/link?shareid=2072954177&uk=1616725824](http://pan.baidu.com/share/link?shareid=2072954177&uk=1616725824)
+[https://pan.baidu.com/s/1i5d8WmT](https://pan.baidu.com/s/1i5d8WmT)
 
 Lesson 7：
 
-[http://pan.baidu.com/share/link?shareid=2786240413&uk=1616725824](http://pan.baidu.com/share/link?shareid=2786240413&uk=1616725824)
+[https://pan.baidu.com/s/1i43Hl6P](https://pan.baidu.com/s/1i43Hl6P)
 
-[http://pan.baidu.com/share/link?shareid=1502607664&uk=1616725824](http://pan.baidu.com/share/link?shareid=1502607664&uk=1616725824)
+[https://pan.baidu.com/s/1jI6DpVC](https://pan.baidu.com/s/1jI6DpVC)
 
 Lesson 8：
 
-[http://pan.baidu.com/share/link?shareid=2902403568&uk=1616725824](http://pan.baidu.com/share/link?shareid=2902403568&uk=1616725824)
+[https://pan.baidu.com/s/1mhFMs6O](https://pan.baidu.com/s/1mhFMs6O)
 
-[http://pan.baidu.com/share/link?shareid=4045411504&uk=1616725824](http://pan.baidu.com/share/link?shareid=4045411504&uk=1616725824)
+[https://pan.baidu.com/s/1c2tYopU](https://pan.baidu.com/s/1c2tYopU)
 
 Lesson 9：
 
-[http://pan.baidu.com/share/link?shareid=2361291593&uk=1616725824](http://pan.baidu.com/share/link?shareid=2361291593&uk=1616725824)
+[https://pan.baidu.com/s/1eSNGrlg](https://pan.baidu.com/s/1eSNGrlg)
 
-[http://pan.baidu.com/share/link?shareid=717408507&uk=1616725824](http://pan.baidu.com/share/link?shareid=717408507&uk=1616725824)
+[https://pan.baidu.com/s/1eR3hw8y](https://pan.baidu.com/s/1eR3hw8y)
+
+Lesson 10:
+
+[https://pan.baidu.com/s/1mi8AXlA](https://pan.baidu.com/s/1mi8AXlA)
+
+[https://pan.baidu.com/s/1bplSGnt](https://pan.baidu.com/s/1bplSGnt)
 
 ### Homework
 
 Homework 1:
 
-[http://pan.baidu.com/share/link?shareid=4019693540&uk=1616725824](http://pan.baidu.com/share/link?shareid=4019693540&uk=1616725824)
+[]()
 
 Homework 2:
 
-[http://pan.baidu.com/share/link?shareid=358542381&uk=1616725824](http://pan.baidu.com/share/link?shareid=358542381&uk=1616725824)
+[]()
 
 Homework 3:
 
-[http://pan.baidu.com/share/link?shareid=601537323&uk=1616725824](http://pan.baidu.com/share/link?shareid=601537323&uk=1616725824)
+[]()
 
 ### Textbook
 
-[http://pan.baidu.com/share/link?shareid=437137472&uk=1616725824](http://pan.baidu.com/share/link?shareid=437137472&uk=1616725824)
+[]()
 
 <a class="btn btn-default" type="button" href="/teaching-and-training/">Back to Teaching & Training</a>
