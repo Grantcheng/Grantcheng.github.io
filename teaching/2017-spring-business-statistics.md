@@ -66,18 +66,22 @@ Lesson 10:
 
 Homework 1:
 
-[]()
+[https://pan.baidu.com/s/1kUYLm8B](https://pan.baidu.com/s/1kUYLm8B)
 
 Homework 2:
 
-[]()
+[https://pan.baidu.com/s/1kVcjgnd](https://pan.baidu.com/s/1kVcjgnd)
 
 Homework 3:
 
-[]()
+[https://pan.baidu.com/s/1nu6WJBN](https://pan.baidu.com/s/1nu6WJBN)
+
+Homework 4:
+
+[https://pan.baidu.com/s/1qYsTN2G](https://pan.baidu.com/s/1qYsTN2G)
 
 ### Textbook
 
-[]()
+[https://pan.baidu.com/s/1jIRBUgY](https://pan.baidu.com/s/1jIRBUgY)
 
 <a class="btn btn-default" type="button" href="/teaching-and-training/">Back to Teaching & Training</a>
