@@ -39,6 +39,7 @@ Information Technology, Nanning GuangXi, August. 2013
 * **Hong Cheng, Yuhua Luo, Dashan Yang. (Preprint).** *The Influence of Individual and Environment Factors on University Students’ Internet Entrepreneurial Intention ------- An Investigation and Analysis Based on the Students from Universities in Shanghai.* 
 
 ## Presentations
+* **“Granger Causality in Sparse Neuronal Network”**, The Multiscale Bioimaging and Bioinformatics Laboratory (MBB), Tulane University, USA, *January. 10, 2018* 
 
 * **“Specification tests for Conditional Granger causality in quantiles”**, Workshop on Data Analysis and Nonlinear Dynamic System, Shanghai Lixin University of Accounting and Finance, *June. 27, 2017* 
 
