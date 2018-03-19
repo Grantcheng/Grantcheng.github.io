@@ -23,12 +23,15 @@ Superpixel Grouping”*. IEEE International Conference on Control Engineering an
 Information Technology, Nanning GuangXi, August. 2013
 
 ## Working & Preprint Papers
+* **Hong Cheng, Yuping Wang. (Working).** *Exploring connectivity with Sparse Causality Neural Network Model on resting-state functional MRI.*
+
+* **Hong Cheng, Yuping Wang. (Working).** *Communication dynamics sparse Causality network patterns from resting-state fMRI.*
 
 * **Hong Cheng, Douglas Zhou, and David Cai. (Preprint).** *The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models.*(Physical Review E, SCI)
 
-* **Hong Cheng, Tinggan Yang, Zhongxin Ni, Liwen Zhang. (submitted).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
+* **Hong Cheng, Tinggan Yang, Zhongxin Ni, Liwen Zhang. (Submitted).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
 
-* **Hong Cheng, Yuping Wang, Tianggan Yang. (submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
+* **Hong Cheng, Yuping Wang, Tianggan Yang. (Submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
 
 * **Hong Cheng, Kaiming Wang. (Working).** *Coherence and Stochastic resonance in stochastic Hodgkin-Huxley neuronal networks.*
 
@@ -36,9 +39,9 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **Hong Cheng, Qinlu Yin.** *The Impact of Religion on Corporate Earnings Persistence.* 
 
-* **Hong Cheng, Wenjie Pan (submitted).** *A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles.* 
+* **Hong Cheng, Wenjie Pan (Submitted).** *A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles.* 
 
-* **Hong Cheng, Yuhua Luo, Dashan Yang. (submitted).** *The Influence of Individual and Environment Factors on University Students’ Internet Entrepreneurial Intention ------- An Investigation and Analysis Based on the Students from Universities in Shanghai.* 
+* **Hong Cheng, Yuhua Luo, Dashan Yang. (Submitted).** *The Influence of Individual and Environment Factors on University Students’ Internet Entrepreneurial Intention ------- An Investigation and Analysis Based on the Students from Universities in Shanghai.* 
 
 ## Presentations
 * **“Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets”**, SEM 2018-5th Annual Conference (SEM2018), Xiamen, China, *June 8–10, 2018* 
