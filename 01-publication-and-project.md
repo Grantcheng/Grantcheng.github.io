@@ -26,7 +26,7 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **Hong Cheng, Douglas Zhou, and David Cai. (Preprint).** *The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models.*(Physical Review E, SCI)
 
-* **Hong Cheng, Tinggan Yang, Zhongxin Ni, Liwen Zhang. (**submitted**).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
+* **Hong Cheng, Tinggan Yang, Zhongxin Ni, Liwen Zhang. (submitted).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
 
 * **Hong Cheng, Yuping Wang, Tianggan Yang. (submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
 
