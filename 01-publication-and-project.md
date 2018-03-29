@@ -37,7 +37,7 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **Hong Cheng, Kaiming Wang. (Working).** *Spike timing reliability and precision of Hodgkin-Huxley neurons with ion-channel noise.*
 
-* **Hong Cheng, Tinggan Yang. (Preprint). ** *A Study on the contagion in Northeast Asian stock markets: new evidence from conditional Granger causality test in quantiles.* 
+* **Hong Cheng, Tinggan Yang. (Preprint).** *A Study on the contagion in Northeast Asian stock markets: new evidence from conditional Granger causality test in quantiles.* 
 
 * **Hong Cheng, Wenjie Pan. (Submitted).** *A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles.* 
 
