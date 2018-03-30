@@ -14,8 +14,9 @@ Finance. His research interests computational and theoretical neuroscience,
 include understanding of the relation between structure and functions of
 biological neuronal networks, discovery of potential mechanisms underlying
 information processing in the brain, and statistic and machine learning
-applications in medical image processing ,especially the quantile regression
-causality in neuronal network.  He is a member of the CCF.
+applications in medical image processingespecially the quantile regression
+causality in neuronal network and fMRI. He is a member of the CCF, The Society 
+for Economic Measurement (SEM), 2016 Shanghai “Sailing Scholar”.
 
 ## Education
 
