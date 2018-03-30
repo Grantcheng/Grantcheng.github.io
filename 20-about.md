@@ -28,6 +28,14 @@ Natural Science, Shanghai Jiao Tong University. (Master-PhD combined program)
 * *9/2004-7/2008:* **Bachelor Degree**, School of Communications and Electronics,
 Jiangxi Science and Technology Normal University.
 
+## Affiliations
+* *5/2015-Presnet:* **Assistant Professor**, School of Statistics and Mathematics, 
+Shanghai Lixin University of Accounting and Finance.
+
+## Experience
+* *10/2017-9/2018:* **Visiting Academic Research Scholar**, Courant Institute of Mathematical Sciences, New York University.
+
+* *12/2017-3/2018:* **Research Scientist**, The Multiscale Bioimaging and Bioinformatics Laboratory (MBB), Tulane University.
 
 ## Contact Me
 
