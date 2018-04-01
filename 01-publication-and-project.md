@@ -7,14 +7,15 @@ permalink: /publication-and-project/
 ## Publications
 
 ### Journals
-
-* **[JCST’14] Hong Cheng, Lin Chen.** *“A Holistic Approach for Efficient Contour
-Detection”*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
-2014 (SCI)
+* **[JOQE’18] Hong Cheng, Wenjie Pan.** *“A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles”*, The Journal of Quantitative Economics, Vol (2). 2018 (CSSCI)
 
 * **[IJPAM’15] Hong Cheng, Lan Guo.** *“Local Largest Lyapunov Exponent is critical to
 threshold voltage and refractory period”*. Italian Journal of Pure and Applied
 Mathematics, Vol (34):189-200 June. 2015 (EI)
+
+* **[JCST’14] Hong Cheng, Lin Chen.** *“A Holistic Approach for Efficient Contour
+Detection”*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
+2014 (SCI)
 
 ### Conferences
 
@@ -38,8 +39,6 @@ Information Technology, Nanning GuangXi, August. 2013
 * **Hong Cheng, Kaiming Wang. (Working).** *Spike timing reliability and precision of Hodgkin-Huxley neurons with ion-channel noise.*
 
 * **Hong Cheng, Tinggan Yang. (Preprint).** *A Study on the contagion in Northeast Asian stock markets: new evidence from conditional Granger causality test in quantiles.* 
-
-* **Hong Cheng, Wenjie Pan. (Submitted).** *A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles.* 
 
 * **Hong Cheng, Yuhua Luo, Dashan Yang. (Submitted).** *The Influence of Individual and Environment Factors on University Students’ Internet Entrepreneurial Intention ------- An Investigation and Analysis Based on the Students from Universities in Shanghai.* 
 
