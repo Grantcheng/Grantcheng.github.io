@@ -19,6 +19,14 @@ permalink: /teaching-and-training/
         <td><a href="/teaching/2017-spring-statistics.html">Link</a>         </td></tr>
     <tr><td>3</td><td>2017 Spring</td><td>Business Statistics</td><td>International Undergraduate Student (2015 grade)</td>
         <td><a href="/teaching/2017-spring-business-statistics.html">Link</a></td></tr>
+    <tr><td>4</td><td>2018 Fall</td><td>Mathematical Statistics</td><td>Undergraduate Student (2017 grade)</td>
+        <td><a href="/teaching/2018-fall-mathematical-statistics.html">Link</a></td></tr>
+    <tr><td>5</td><td>2018 Fall</td><td>English in Statistics</td><td>Undergraduate Student (2016 grade)</td>
+        <td><a href="/teaching/2018-fall-english-in-statistics.html">Link</a></td></tr>
+    <tr><td>6</td><td>2018 Fall</td><td>Matlab(I)</td><td>Undergraduate Student (2017 grade)</td>
+        <td><a href="/teaching/2018-fall-matlab-i.html">Link</a></td></tr>
+    <tr><td>7</td><td>2018 Fall</td><td>Business Statistics</td><td>Chinese-Denmark Student (2017 grade)</td>
+        <td><a href="/teaching/2018-fall-business-statistics.html">Link</a></td></tr>
   </tbody>
 </table>
 
