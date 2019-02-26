@@ -16,6 +16,10 @@ permalink: /people/
 
 <img style="max-width:300px" src="/assets/people/yingXu.jpg" />
 
+### **Sibo Yang** (2017 grade)
+
+<img style="max-width:300px" src="/assets/people/siboYang.jpg" />
+
 ## Previous Group Members
 ### **Chenhao Zhou** (2015 grade)
 
