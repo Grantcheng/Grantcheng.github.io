@@ -7,6 +7,9 @@ permalink: /publication-and-project/
 ## Publications
 
 ### Journals
+* **[JSE’19] 程宏、杨廷干. ** *“基于分位数条件Granger因果的东亚股市传染研究”*, 《系统工程学报》. 2019
+* **Hong Cheng, Tinggan Yang.** * “Research on contagion among stock markets of east asian based on conditional Granger causality in quantile”*, Journal of System Engineering. 2019
+
 * **[JOQE’18] Hong Cheng, Wenjie Pan.** *“A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles”*, The Journal of Quantitative Economics, Vol (2). 2018 (CSSCI)
 
 * **[IJPAM’15] Hong Cheng, Lan Guo.** *“Local Largest Lyapunov Exponent is critical to
@@ -30,17 +33,15 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **Hong Cheng, Douglas Zhou, and David Cai. (Preprint).** *The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models.*(Physical Review E, SCI)
 
-* **Hong Cheng, Tinggan Yang, Zhongxin Ni, Liwen Zhang. (Submitted).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
+* **Hong Cheng, Yihong Wang, Yunqing Wang, Tinggan Yang. (Submitted).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
 
 * **Hong Cheng, Yuping Wang, Tianggan Yang. (Submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
 
-* **Hong Cheng, Kaiming Wang. (Working).** *Coherence and Stochastic resonance in stochastic Hodgkin-Huxley neuronal networks.*
+* **Hong Cheng, Changgui Gu. (Working).** *Coherence and Stochastic resonance in stochastic Hodgkin-Huxley neuronal networks.*
 
-* **Hong Cheng, Kaiming Wang. (Working).** *Spike timing reliability and precision of Hodgkin-Huxley neurons with ion-channel noise.*
+* **Hong Cheng, Changgui Gu. (Working).** *Spike timing reliability and precision of Hodgkin-Huxley neurons with ion-channel noise.*
 
 * **Hong Cheng, Tinggan Yang. (Submitted).** *A Study on the contagion in Northeast Asian stock markets: new evidence from conditional Granger causality test in quantiles.* 
-
-* **Hong Cheng, Yuhua Luo, Dashan Yang. (Submitted).** *The Influence of Individual and Environment Factors on University Students’ Internet Entrepreneurial Intention ------- An Investigation and Analysis Based on the Students from Universities in Shanghai.* 
 
 ## Presentations
 * **“Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets”**, SEM 2018-5th Annual Conference (SEM2018), Xiamen, China, *June 8–10, 2018* 
