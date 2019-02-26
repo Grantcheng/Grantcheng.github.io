@@ -6,6 +6,16 @@ permalink: /people/
 
 ## Group Members
 
+## Group 1 (FDI and Pollution: Panel Granger Causality)
+### **Zifeng Kou** (2017 grade)
+
+<img style="max-width:300px" src="/assets/people/zifengKou.jpg" />
+
+### **Ying Xu** (2017 grade)
+
+<img style="max-width:300px" src="/assets/people/yingXu.jpg" />
+
+## Previous Group Members
 ### **Chenhao Zhou** (2015 grade)
 
 <img style="max-width:300px" src="/assets/people/chenhao-zhou.jpg" />
