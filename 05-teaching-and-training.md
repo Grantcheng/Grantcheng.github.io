@@ -60,4 +60,4 @@ permalink: /teaching-and-training/
 </table>
 
 ## Teaching Publication
-
+* **Hong Cheng, Lan Guo.** *“Teaching reform and exploration on the course of business statistics of international students in universities”*, Journal of Shanghai finance and economics education. 2019; (程宏、郭岚. “高校留学生商务统计学教学改革与探索--以上海立信会计金融学院为例”, 《上海财经教育》. 2019)
