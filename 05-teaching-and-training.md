@@ -59,3 +59,5 @@ permalink: /teaching-and-training/
   </tbody>
 </table>
 
+## Teaching Publication
+
