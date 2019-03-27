@@ -7,7 +7,7 @@ permalink: /publication-and-project/
 ## Publications
 
 ### Journals
-* **[JSE’19] Hong Cheng, Tinggan Yang.** * “Research on contagion among stock markets of east asian based on conditional Granger causality in quantile”*, Journal of System Engineering. 2019; (程宏、杨廷干. “基于分位数条件Granger因果的东亚股市传染研究”, 《系统工程学报》. 2019)
+* **[JSE’19] Hong Cheng, Tinggan Yang.** *“Research on contagion among stock markets of east asian based on conditional Granger causality in quantile”*, Journal of System Engineering. 2019; (程宏、杨廷干. “基于分位数条件Granger因果的东亚股市传染研究”, 《系统工程学报》. 2019)
 
 * **[JOQE’18] Hong Cheng, Wenjie Pan.** *“A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles”*, The Journal of Quantitative Economics, Vol (2). 2018 (CSSCI)
 
