@@ -42,8 +42,6 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **Hong Cheng, Changgui Gu. (Working).** *Spike timing reliability and precision of Hodgkin-Huxley neurons with ion-channel noise.*
 
-* **Hong Cheng, Yihong Wang. (Submitted).** *Tailored Finite Point Method for anisotropic diffusion equations with strong discontinuous diffusivity on triangular meshes.* 
-
 ## Presentations
 * **“Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets”**, SEM 2018-5th Annual Conference (SEM2018), Xiamen, China, *June 8–10, 2018* 
 
