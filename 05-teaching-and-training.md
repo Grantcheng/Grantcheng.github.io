@@ -66,4 +66,6 @@ permalink: /teaching-and-training/
 </table>
 
 ## Teaching Publication
+* **Hong Cheng, Lan Guo.** *“On the Cultivation Mode of Innovation Capability for Undergraduates in the Application-Oriented University Based on the College Scientific & Technological Competition and International Exchange & Cooperation”*, Journal of Chuangxin Chunagye Lilun Yanjiu Yu Shijian. 2020; (程宏、郭岚. “基于学科竞赛与国际交流合作的应用型本科专业大学生科技创新教育研究”, 《创新创业理论研究与实践》. 2020)
+
 * **Hong Cheng, Lan Guo.** *“Teaching reform and exploration on the course of business statistics of international students in universities”*, Journal of Shanghai finance and economics education. 2019; (程宏、郭岚. “高校留学生商务统计学教学改革与探索--以上海立信会计金融学院为例”, 《上海财经教育》. 2019)
