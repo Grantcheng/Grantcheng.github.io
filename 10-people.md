@@ -74,9 +74,9 @@ permalink: /people/
 *Tulane University, New Orleans, U.S.A*  
 *Prof Wang's Laboratory* (http://www.tulane.edu/~wyp/)
 
-### *Dr. Liwen Zhang*  
-[http://my.shu.edu.cn/Index.aspx?TID=2251](http://my.shu.edu.cn/Index.aspx?TID=2251)  
+### *Prof. Xiaojun Song*  
+[http://www.gsm.pku.edu.cn/jsjjxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1141&user_id=sxj](http://www.gsm.pku.edu.cn/jsjjxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1141&user_id=sxj)  
 
-*Shanghai University, Shanghai, China*
+*Peking University, Guanghua School of Management Beijing, China*
 
 
