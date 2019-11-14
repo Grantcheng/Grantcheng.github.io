@@ -3,8 +3,6 @@ layout: page
 title: People
 permalink: /people/
 ---
-
-## Group Members
 科创大平台共有以下研究课题：
 
 1）面板格兰杰因果关系下的环境污染研究
@@ -24,6 +22,7 @@ permalink: /people/
 8）机器学习下的格兰杰因果研究
 
 9）基于极限学习机（ELM）的备件间断需求预测研究
+## Group Members
 
 <img style="max-width:300px" src="/assets/people/hezhao.jpg" />
 ## Group 1 
