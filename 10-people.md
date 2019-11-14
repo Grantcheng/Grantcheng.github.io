@@ -5,9 +5,10 @@ permalink: /people/
 ---
 
 ## Group Members
-
+<img style="max-width:300px" src="/assets/people/hezhao.jpg" />
 ## Group 1 
 (FDI and Pollution: Panel Granger Causality)
+<img style="max-width:300px" src="/assets/people/kouzifeng.jpg" />
 ### **Zifeng Kou** (2017 grade)
 
 <img style="max-width:300px" src="/assets/people/zhifengKou.jpg" />
@@ -20,6 +21,22 @@ permalink: /people/
 
 <img style="max-width:300px" src="/assets/people/siboYang.jpg" />
 
+## Group 2 
+(基于第三方物流的供应链金融风险研究小组)
+<img style="max-width:300px" src="/assets/people/luyinda.jpg" />
+
+## Group 3 
+(基于视频流的图像物体检测研究小组)
+<img style="max-width:300px" src="/assets/people/hukailang.jpg" />
+
+## Group 4
+(乡村振兴指标体系构建研究小组)
+<img style="max-width:300px" src="/assets/people/fengyanan.jpg" />
+
+## Group 5 
+(AI与实体深度经济融合研究小组)
+<img style="max-width:300px" src="/assets/people/yuanjie.jpg" />
+
 ## Previous Group Members
 ### **Chenhao Zhou** (2015 grade)
 
@@ -28,10 +45,6 @@ permalink: /people/
 ### **Lei Chen** (2015 grade)
 
 <img style="max-width:300px" src="/assets/people/lei-chen.jpg" />
-
-### **Yuhua Luo** (2014 grade)
-
-<img style="max-width:300px" src="/assets/people/yuhua-luo.jpg" />
 
 
 ## Collaborators
