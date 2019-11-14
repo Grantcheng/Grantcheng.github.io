@@ -5,6 +5,16 @@ permalink: /people/
 ---
 
 ## Group Members
+科创大平台共有研究课题：
+1）面板格兰杰因果关系下的环境污染研究
+2）基于第三方物流的供应链金融风险研究
+3）基于视频流的图像物体检测研究
+4）乡村振兴指标体系构建研究
+5）AI与实体经济融合研究
+6）人脸反欺诈研究
+7）节能减排政策量化协同研究
+8）机器学习下的格兰杰因果研究
+
 <img style="max-width:300px" src="/assets/people/hezhao.jpg" />
 ## Group 1 
 (FDI and Pollution: Panel Granger Causality)
