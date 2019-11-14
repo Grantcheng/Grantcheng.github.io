@@ -9,17 +9,6 @@ permalink: /people/
 ## Group 1 
 (FDI and Pollution: Panel Granger Causality)
 <img style="max-width:300px" src="/assets/people/kouzifeng.jpg" />
-### **Zifeng Kou** (2017 grade)
-
-<img style="max-width:300px" src="/assets/people/zhifengKou.jpg" />
-
-### **Ying Xu** (2017 grade)
-
-<img style="max-width:300px" src="/assets/people/yingXu.jpg" />
-
-### **Sibo Yang** (2017 grade)
-
-<img style="max-width:300px" src="/assets/people/siboYang.jpg" />
 
 ## Group 2 
 (基于第三方物流的供应链金融风险研究小组)
