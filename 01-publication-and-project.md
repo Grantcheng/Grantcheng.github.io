@@ -36,7 +36,7 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **Hong Cheng, Yihong Wang, Yunqing Wang, Tinggan Yang. (Submitted).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
 
-* **Hong Cheng, Yuping Wang, Tianggan Yang. (Submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
+* **Hong Cheng, Xiaojun Song. (Submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
 
 * **Hong Cheng, Changgui Gu. (Working).** *Coherence and Stochastic resonance in stochastic Hodgkin-Huxley neuronal networks.*
 
