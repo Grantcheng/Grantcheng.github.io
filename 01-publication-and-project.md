@@ -32,7 +32,7 @@ Information Technology, Nanning GuangXi, August. 2013
 
 * **Hong Cheng, Yuping Wang. (Working).** *Communication dynamics sparse Causality network patterns from resting-state fMRI.*
 
-* **Hong Cheng, Douglas Zhou, and David Cai. (Preprint).** *The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models.*(Physical Review E, SCI)
+* **Hong Cheng, Douglas Zhou, and David Cai. (Submitted).** *The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models.*
 
 * **Hong Cheng, Yihong Wang, Yunqing Wang, Tinggan Yang. (Submitted).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
 
