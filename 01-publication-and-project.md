@@ -7,6 +7,8 @@ permalink: /publication-and-project/
 ## Publications
 
 ### Journals
+* **Hong Cheng、David Cai、Douglas Zhou**  “The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”, Chaos: An Interdisciplinary Journal of Nonlinear Science. 2020 (SCI)
+
 * **贺小娟，潘文捷，程宏** “基于集成学习方法的点击率预估模型研究”, 《计算机工程与科学》，2020.（CSCD扩展，CCF推荐中文C类）
 
 * **[JSE’19] Hong Cheng, Tinggan Yang.** *“Research on contagion among stock markets of east asian based on conditional Granger causality in quantile”*, Journal of System Engineering. 2019; (程宏、杨廷干. “基于分位数条件Granger因果的东亚股市传染研究”, 《系统工程学报》. 2019)（CSCD核心）
@@ -31,8 +33,6 @@ Information Technology, Nanning GuangXi, August. 2013
 * **Hong Cheng, Yuping Wang. (Working).** *Exploring connectivity with Sparse Causality Neural Network Model on resting-state functional MRI.*
 
 * **Hong Cheng, Yuping Wang. (Working).** *Communication dynamics sparse Causality network patterns from resting-state fMRI.*
-
-* **Hong Cheng, Douglas Zhou, and David Cai. (Submitted).** *The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models.*
 
 * **Hong Cheng, Yihong Wang, Yunqing Wang, Tinggan Yang. (Submitted).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
 
