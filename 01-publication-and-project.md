@@ -7,7 +7,7 @@ permalink: /publication-and-project/
 ## Publications
 
 ### Journals
-* **Hong Cheng、David Cai、Douglas Zhou**  “The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”, Chaos: An Interdisciplinary Journal of Nonlinear Science. 2020 (SCI)
+* **Hong Cheng、David Cai、Douglas Zhou* **  “The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”, Chaos: An Interdisciplinary Journal of Nonlinear Science. 2020 (SCI)
 
 * **贺小娟，潘文捷，程宏** “基于集成学习方法的点击率预估模型研究”, 《计算机工程与科学》，2020.（CSCD扩展，CCF推荐中文C类）
 
