@@ -31,5 +31,3 @@ Shanghai LiXin University of Accounting and Finance, Pudong District, Shanghai, 
 
 **Email:** [clx_2010@sjtu.edu.cn](mailto:clx_2010@sjtu.edu.cn) |
 [hcheng@cims.nyu.edu](mailto:hcheng@cims.nyu.edu)
-
-浏览量:&nbsp;<span id="{{ post.url }}" class="leancloud_visitors" data-flag-title="{{ post.title }}"> - </span>次.
