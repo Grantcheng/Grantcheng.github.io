@@ -23,10 +23,11 @@ url: "https://grantcheng.github.io" # the base hostname & protocol for your site
 github_username:  Grantcheng
 
 #comment
-# Disqus (https://disqus.com/)
-# disqus: HongCheng_2017
+Disqus (https://disqus.com/)
+disqus: HongCheng_2017
     
 # Statistic
+busuanzi:enable: true
 
 # Analytics settings
 # Google Analytics
