@@ -34,6 +34,9 @@ busuanzi:enable: true
 ga_track_id: 'UA-110803970-1'
 ga_domain: auto
 
+baidu-analysis：7634af0a6307dc6af507f449b8f13c57
+
+
 # Build settings
 markdown: kramdown
 theme: minima
