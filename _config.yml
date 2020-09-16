@@ -23,8 +23,8 @@ url: "https://grantcheng.github.io" # the base hostname & protocol for your site
 github_username:  Grantcheng
 
 #comment
-Disqus (https://disqus.com/)
-disqus: HongCheng_2017
+#Disqus (https://disqus.com/)
+#disqus: HongCheng_2017
     
 # Statistic
 busuanzi:enable: true
@@ -34,8 +34,7 @@ busuanzi:enable: true
 ga_track_id: 'UA-110803970-1'
 ga_domain: auto
 
-baidu-analysis：7634af0a6307dc6af507f449b8f13c57
-
+# baidu-analysis：7634af0a6307dc6af507f449b8f13c57
 
 # Build settings
 markdown: kramdown
