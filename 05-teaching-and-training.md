@@ -13,9 +13,15 @@ permalink: /teaching-and-training/
     <tr><th>No.</th><th>Semester</th><th>Course</th><th>Student</th><th>Links</th></tr>
   </thead>
   <tbody>
-     <tr><td>1</td><td>2019 Fall  </td><td>Python语言与数据挖掘       </td><td>Undergraduate Student (2017级经济统计、数学与应用数学)              </td>
+    <tr><td>1</td><td>020 Fall  </td><td>统计机器学习导论         </td><td>Undergraduate Student (2017级经济统计、数学与应用数学、金融数学等)              </td>
         <td></td></tr>
-     <tr><td>1</td><td>2019 Fall  </td><td>MATLAB金融计算与金融数据处理         </td><td>Undergraduate Student (2017级经济统计)              </td>
+    <tr><td>2</td><td>2020 Fall  </td><td>实用统计软件（SAS）         </td><td>Undergraduate Student (2018级经济统计、2018级金融学)              </td>
+        <td></td></tr>
+    <tr><td>1</td><td>2020 Fall  </td><td>数据挖掘 (Data Mining)       </td><td>Undergraduate Student (2018级经济统计、数学与应用数学、金融数学、应用统计学)       </td>
+        <td></td></tr>
+     <tr><td>1</td><td>2020 Spring  </td><td>Python语言与数据挖掘       </td><td>Undergraduate Student (2017级经济统计、数学与应用数学)              </td>
+        <td></td></tr>
+     <tr><td>1</td><td>2020 Spring  </td><td>MATLAB金融计算与金融数据处理         </td><td>Undergraduate Student (2017级经济统计)              </td>
         <td></td></tr>
         <tr><td>1</td><td>2019 Fall  </td><td>统计机器学习导论         </td><td>Undergraduate Student (2017级经济统计、应用统计、数学与应用数学、金融数学等)              </td>
         <td></td></tr>
