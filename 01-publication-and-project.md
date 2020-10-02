@@ -7,7 +7,7 @@ permalink: /publication-and-project/
 ## Publications
 
 ### Journals
-* **Hong Cheng、David Cai、Douglas Zhou**  “The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”, Chaos: An Interdisciplinary Journal of Nonlinear Science. 2020 (SCI)
+* **[Chaos’20] Hong Cheng、David Cai、Douglas Zhou**  “The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”, Chaos 30: 103102. 2020 (SCI)
 
 * **贺小娟，潘文捷，程宏** “基于集成学习方法的点击率预估模型研究”, 《计算机工程与科学》，2020.（CSCD扩展，CCF推荐中文C类）
 
@@ -15,12 +15,10 @@ permalink: /publication-and-project/
 
 * **[JOQE’18] Hong Cheng, Wenjie Pan.** *“A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles”*, The Journal of Quantitative Economics, Vol (2). 2018 (CSSCI)
 
-* **[IJPAM’15] Hong Cheng, Lan Guo.** *“Local Largest Lyapunov Exponent is critical to
-threshold voltage and refractory period”*. Italian Journal of Pure and Applied
+* **[IJPAM’15] Hong Cheng, Lan Guo.** *“Local Largest Lyapunov Exponent is critical to threshold voltage and refractory period”*. Italian Journal of Pure and Applied
 Mathematics, Vol (34):189-200 June. 2015 (EI)
 
-* **[JCST’14] Hong Cheng, Lin Chen.** *“A Holistic Approach for Efficient Contour
-Detection”*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
+* **[JCST’14] Hong Cheng, Lin Chen.** *“A Holistic Approach for Efficient Contour Detection”*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
 2014 (SCI)
 
 ### Conferences
