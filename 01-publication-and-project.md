@@ -9,9 +9,9 @@ permalink: /publication-and-project/
 ### Journals
 * **[Chaos’20] Hong Cheng、David Cai、Douglas Zhou**  “The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”, Chaos 30: 103102. 2020 (SCI)
 
-* **[CES’19] 贺小娟，潘文捷，程宏** “基于集成学习方法的点击率预估模型研究”, 《计算机工程与科学》，2020.（CSCD扩展，CCF推荐中文C类）
+* **[CES’19] 贺小娟，潘文捷，程宏** “基于集成学习方法的点击率预估模型研究”, 《计算机工程与科学》，2019, 041(012):2278-2284.（CSCD扩展，CCF推荐中文C类）
 
-* **[JSE’19] Hong Cheng, Tinggan Yang.** *“Research on contagion among stock markets of east asian based on conditional Granger causality in quantile”*, Journal of System Engineering. 2019; (程宏、杨廷干. “基于分位数条件Granger因果的东亚股市传染研究”, 《系统工程学报》. 2019)（CSCD核心）
+* **[JSE’19] Hong Cheng, Tinggan Yang.** *“Research on contagion among stock markets of east asian based on conditional Granger causality in quantile”*, Journal of System Engineering. 2019; (程宏、杨廷干. “基于分位数条件Granger因果的东亚股市传染研究”, 《系统工程学报》. 2019,预计2021年4月见刊)（CSCD核心）
 
 * **[JOQE’18] Hong Cheng, Wenjie Pan.** *“A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles”*, The Journal of Quantitative Economics, Vol (2). 2018 (CSSCI)
 
@@ -23,8 +23,7 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 
 ### Conferences
 
-* **[ICCEIT2013] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By
-Superpixel Grouping”*. IEEE International Conference on Control Engineering and
+* **[ICCEIT2013] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By Superpixel Grouping”*. IEEE International Conference on Control Engineering and
 Information Technology, Nanning GuangXi, August. 2013
 
 ## Working & Preprint Papers
