@@ -54,6 +54,8 @@ Information Technology, Nanning GuangXi, August. 2013
 
 ## Projects
 
+* **2019年服务上海与长三角区域一体化发展战略项目（课题）**、 "进一步推动人工智能与实体经济融合提高上海经济高质量发展研究"、 "2019/6-2019/12"、 已结题、 **主持**
+
 * **Shanghai Sailing Program、16YF1415900**、“Extended Granger Causality for Hodgkin-Huxley Neuronal Network”, *2016/6-2019/5*, **PI**
 
 * **Shanghai Young Teachers Training Funding Program、ZZSGJR15045**、“The Dynamics of Brain Neuron Model”, *2016/6-2018/6*, **PI**
