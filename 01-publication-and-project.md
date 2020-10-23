@@ -11,9 +11,9 @@ permalink: /publication-and-project/
 
 * **[CES’19] 贺小娟，潘文捷，程宏** “基于集成学习方法的点击率预估模型研究”, 《计算机工程与科学》，2019, 041(012):2278-2284.（CSCD扩展，CCF推荐中文C类）
 
-* **[JSE’19] Hong Cheng, Tinggan Yang.** *“Research on contagion among stock markets of east asian based on conditional Granger causality in quantile”*, Journal of System Engineering. 2019; (程宏、杨廷干. “基于分位数条件Granger因果的东亚股市传染研究”, 《系统工程学报》. 2019, 预计2021年4月见刊)（CSCD核心）
+* **[JSE’19] Hong Cheng, Tinggan Yang.** *“Research on contagion among stock markets of east asian based on conditional Granger causality in quantile”*, Journal of System Engineering. 2019; (程宏、杨廷干. “基于分位数条件Granger因果的东亚股市传染研究”, 《系统工程学报》，2019, 预计2021年4月见刊)（CSCD核心）
 
-* **[JOQE’18] Hong Cheng, Wenjie Pan.** *“A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles”*, The Journal of Quantitative Economics, 2018, 9(02): 78-101. (CSSCI) (程宏, 潘文捷. 基于Copula分位数格兰杰因果检验的股票市场相依性研究[J].数量经济研究, 2018, 9(02): 78-101.（ CSSCI）)
+* **[JOQE’18] Hong Cheng, Wenjie Pan.** *“A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles”*, The Journal of Quantitative Economics, 2018, 9(02): 78-101. (CSSCI) (程宏, 潘文捷. “基于Copula分位数格兰杰因果检验的股票市场相依性研究”，《数量经济研究》, 2018, 9(02): 78-101.（CSSCI）)
 
 * **[IJPAM’15] Hong Cheng, Lan Guo.** *“Local Largest Lyapunov Exponent is critical to threshold voltage and refractory period”*. Italian Journal of Pure and Applied
 Mathematics, Vol (34):189-200 June. 2015 (EI)
