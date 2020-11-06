@@ -4,6 +4,10 @@ layout: teaching
 
 ## Mathematical Statistics
 
+### Online Courses
+
+Mathematical Statistics: [https://mooc1-1.chaoxing.com/course/204960955.html](https://mooc1-1.chaoxing.com/course/204960955.html)
+
 ### Slides
 
 1. The Syllabus of Mathematical Statistics: [https://pan.baidu.com/s/1Ka-xdlw6jkuFGaV5E1O2xg](https://pan.baidu.com/s/1Ka-xdlw6jkuFGaV5E1O2xg)
