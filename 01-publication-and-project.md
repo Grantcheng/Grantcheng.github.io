@@ -26,14 +26,17 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 * **[ICCEIT2013] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By Superpixel Grouping”*. IEEE International Conference on Control Engineering and
 Information Technology, Nanning GuangXi, August. 2013
 
-## Working & Preprint Papers
-* **Hong Cheng, Yuping Wang. (Working).** *Exploring connectivity with Sparse Causality Neural Network Model on resting-state functional MRI.*
-
-* **Hong Cheng, Yuping Wang. (Working).** *Communication dynamics sparse Causality network patterns from resting-state fMRI.*
-
+## Preprint Papers
 * **Hong Cheng, Yihong Wang, Yunqing Wang, Tinggan Yang. (Submitted).** *Conditional Granger causality tests based on quantile regression for the complexity of relations in financial markets.*
 
 * **Hong Cheng, Xiaojun Song. (Submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
+
+* **Jie Ni, Jiayi Qian, Yixiao Lu, Hong Cheng^*.** *The thermal power generation and economic growth in the central and western China: A heterogeneous mixed panel Granger-Causality approach.* (https://arxiv.org/abs/2011.12161)
+ 
+## Working
+* **Hong Cheng, Yuping Wang. (Working).** *Exploring connectivity with Sparse Causality Neural Network Model on resting-state functional MRI.*
+
+* **Hong Cheng, Yuping Wang. (Working).** *Communication dynamics sparse Causality network patterns from resting-state fMRI.*
 
 * **Hong Cheng, Changgui Gu. (Working).** *Coherence and Stochastic resonance in stochastic Hodgkin-Huxley neuronal networks.*
 
