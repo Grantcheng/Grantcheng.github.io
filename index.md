@@ -7,6 +7,8 @@ layout: home
 **Hong Cheng** received the B.S degree in electronic and information engineering from School of Communications and Electronics at Jiangxi Science and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.degree in Mathematics from the Department of Mathematics and Institute of Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now, he is an assistant professor at Shanghai LiXin University of Accounting and Finance. His research interests computational and theoretical neuroscience, include understanding of the relation between structure and functions of biological neuronal networks, discovery of potential mechanisms underlying information processing in the brain, Complex network, Time series analysis, Deep learning and Big data, Brain network and brain cognition. He is a member of the CCF, 2016 Shanghai "Sailing Scholar".
 
 ## Recent News
+* 12/02/2021,  Hong Cheng, Yunqing Wang, Yihong Wang, Tinggan Yang. “Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression”  has been accepted for publication in Computational Economics
+
 * 14/09/2020,  Hong Cheng, David Cai, Douglas Zhou. “The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”  has been accepted for publication in Chaos: An Interdisciplinary Journal of Nonlinear Science and is tentatively scheduled for publication in the October, 2020 issue 
 
 * 08/09/2020,  程宏 著. “统计因果推断模型理论与应用--基于大脑网络及金融市场研究” 出版， 2020年，经济科学出版社， ISBN：978-7-5141-6222-6   
