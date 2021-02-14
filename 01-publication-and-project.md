@@ -21,6 +21,9 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 * **[JCST’14] Hong Cheng, Lin Chen.** *“A Holistic Approach for Efficient Contour Detection”*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
 2014 (SCI)
 
+### Books
+* **程宏 著**， “统计因果推断模型理论与应用--基于大脑网络及金融市场研究”，经济科学出版社，2020年7月，ISBN：978-7-5141-6222-6
+
 ### Conferences
 
 * **[ICCEIT2013] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By Superpixel Grouping”*. IEEE International Conference on Control Engineering and
