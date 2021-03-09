@@ -13,8 +13,10 @@ permalink: /teaching-and-training/
     <tr><th>No.</th><th>Semester</th><th>Course</th><th>Student</th><th>Links</th></tr>
   </thead>
   <tbody>
-    <tr><td>18</td><td>2021 Spring  </td><td>统计学</td><td>Undergraduate Student (2018级财政学)              </td>
-    <tr><td>17</td><td>2021 Spring  </td><td>实用统计软件（SAS）</td><td>Undergraduate Student (2018级房地产)              </td>
+    <tr><td>18</td><td>2021 Spring  </td><td>统计学 </td><td>Undergraduate Student (2018级财政学)                    </td>
+      <td></td></tr>
+    <tr><td>17</td><td>2021 Spring  </td><td>实用统计软件（SAS） </td><td>Undergraduate Student (2018级房地产)              </td>
+      <td></td></tr>
     <tr><td>16</td><td>2020 Fall  </td><td>统计机器学习导论 (Introduction to Statistical Machine Learning)  </td><td>Undergraduate Student (2017级经济统计、数学与应用数学、金融数学等)              </td>
         <td><a href="/teaching/MachineLeraning_Course.html">Link</a></td></tr>
     <tr><td>15</td><td>2020 Fall  </td><td>实用统计软件（SAS）         </td><td>Undergraduate Student (2018级经济统计、2018级金融学)              </td>
