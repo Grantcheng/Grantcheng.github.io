@@ -13,37 +13,39 @@ permalink: /teaching-and-training/
     <tr><th>No.</th><th>Semester</th><th>Course</th><th>Student</th><th>Links</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>2020 Fall  </td><td>统计机器学习导论 (Introduction to Statistical Machine Learning)  </td><td>Undergraduate Student (2017级经济统计、数学与应用数学、金融数学等)              </td>
+    <tr><td>18</td><td>2021 Spring  </td><td>统计学</td><td>Undergraduate Student (2018级财政学)              </td>
+    <tr><td>17</td><td>2021 Spring  </td><td>实用统计软件（SAS）</td><td>Undergraduate Student (2018级房地产)              </td>
+    <tr><td>16</td><td>2020 Fall  </td><td>统计机器学习导论 (Introduction to Statistical Machine Learning)  </td><td>Undergraduate Student (2017级经济统计、数学与应用数学、金融数学等)              </td>
         <td><a href="/teaching/MachineLeraning_Course.html">Link</a></td></tr>
-    <tr><td>2</td><td>2020 Fall  </td><td>实用统计软件（SAS）         </td><td>Undergraduate Student (2018级经济统计、2018级金融学)              </td>
+    <tr><td>15</td><td>2020 Fall  </td><td>实用统计软件（SAS）         </td><td>Undergraduate Student (2018级经济统计、2018级金融学)              </td>
         <td></td></tr>
-    <tr><td>1</td><td>2020 Fall  </td><td>数据挖掘 (Data Mining)       </td><td>Undergraduate Student (2018级经济统计、数学与应用数学、金融数学、应用统计学)       </td>
+    <tr><td>14</td><td>2020 Fall  </td><td>数据挖掘 (Data Mining)       </td><td>Undergraduate Student (2018级经济统计、数学与应用数学、金融数学、应用统计学)       </td>
         <td><a href="/teaching/MachineLeraning_Course.html">Link</a></td></tr>
-     <tr><td>1</td><td>2020 Spring  </td><td>Python语言与数据挖掘 (Python for Machine Learning and Data Mining)    </td><td>Undergraduate Student (2017级经济统计、数学与应用数学)              </td>
+     <tr><td>13</td><td>2020 Spring  </td><td>Python语言与数据挖掘 (Python for Machine Learning and Data Mining)    </td><td>Undergraduate Student (2017级经济统计、数学与应用数学)              </td>
         <td></td></tr>
-     <tr><td>1</td><td>2020 Spring  </td><td>MATLAB金融计算与金融数据处理         </td><td>Undergraduate Student (2017级经济统计)              </td>
+     <tr><td>12</td><td>2020 Spring  </td><td>MATLAB金融计算与金融数据处理         </td><td>Undergraduate Student (2017级经济统计)              </td>
         <td><a href="/teaching/MachineLeraning_Course.html">Link</a></td></tr>
-        <tr><td>1</td><td>2019 Fall  </td><td>统计机器学习导论 (Introduction to Statistical Machine Learning)          </td><td>Undergraduate Student (2017级经济统计、应用统计、数学与应用数学、金融数学等)              </td>
+        <tr><td>11</td><td>2019 Fall  </td><td>统计机器学习导论 (Introduction to Statistical Machine Learning)          </td><td>Undergraduate Student (2017级经济统计、应用统计、数学与应用数学、金融数学等)              </td>
         <td><a href="/teaching/MachineLeraning_Course.html">Link</a></td></tr>
-    <tr><td>2</td><td>2019 Fall  </td><td>实用统计软件（SAS）         </td><td>Undergraduate Student (2017级经济统计)              </td>
+    <tr><td>10</td><td>2019 Fall  </td><td>实用统计软件（SAS）         </td><td>Undergraduate Student (2017级经济统计)              </td>
         <td></td></tr>
-    <tr><td>3</td><td>2019 Fall  </td><td>统计专业英语（English in Statistics）         </td><td>Undergraduate Student (2017 grade)              </td>
+    <tr><td>9</td><td>2019 Fall  </td><td>统计专业英语（English in Statistics）         </td><td>Undergraduate Student (2017 grade)              </td>
         <td></td></tr>
-        <tr><td>4</td><td>2019 Spring  </td><td>Statistics         </td><td>Undergraduate Student (2017 grade)              </td>
+        <tr><td>8</td><td>2019 Spring  </td><td>Statistics         </td><td>Undergraduate Student (2017 grade)              </td>
         <td></td></tr>
-        <tr><td>5</td><td>2018 Fall</td><td>Mathematical Statistics</td><td>Undergraduate Student (2017 grade)</td>
+        <tr><td>7</td><td>2018 Fall</td><td>Mathematical Statistics</td><td>Undergraduate Student (2017 grade)</td>
         <td><a href="/teaching/2018-fall-mathematical-statistics.html">Link</a></td></tr>
     <tr><td>6</td><td>2018 Fall</td><td>English in Statistics</td><td>Undergraduate Student (2016 grade)</td>
         <td><a href="/teaching/2018-fall-english-in-statistics.html">Link</a></td></tr>
-    <tr><td>7</td><td>2018 Fall</td><td>Matlab(I)</td><td>Undergraduate Student (2017 grade)</td>
+    <tr><td>5</td><td>2018 Fall</td><td>Matlab(I)</td><td>Undergraduate Student (2017 grade)</td>
         <td><!--<a href="/teaching/2018-fall-matlab-i.html">Link</a>--></td></tr>
-    <tr><td>8</td><td>2018 Fall</td><td>Business Statistics</td><td>Chinese-Denmark Student (2017 grade)</td>
+    <tr><td>4</td><td>2018 Fall</td><td>Business Statistics</td><td>Chinese-Denmark Student (2017 grade)</td>
         <td><a href="/teaching/2018-fall-business-statistics.html">Link</a></td></tr>
-        <tr><td>9</td><td>2017 Spring</td><td>Statistics         </td><td>Undergraduate Student (2015 grade)              </td>
+        <tr><td>3</td><td>2017 Spring</td><td>Statistics         </td><td>Undergraduate Student (2015 grade)              </td>
         <td><a href="/teaching/2017-spring-statistics.html">Link</a>         </td></tr>
-    <tr><td>10</td><td>2017 Spring</td><td>Business Statistics</td><td>International Undergraduate Student (2015 grade)</td>
+    <tr><td>2</td><td>2017 Spring</td><td>Business Statistics</td><td>International Undergraduate Student (2015 grade)</td>
         <td><a href="/teaching/2017-spring-business-statistics.html">Link</a></td></tr>
-    <tr><td>11</td><td>2016 Fall  </td><td>Statistics         </td><td>Undergraduate Student (2014 grade)              </td>
+    <tr><td>1</td><td>2016 Fall  </td><td>Statistics         </td><td>Undergraduate Student (2014 grade)              </td>
         <td></td></tr>
   </tbody>
 </table>
