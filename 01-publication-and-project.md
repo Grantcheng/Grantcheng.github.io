@@ -7,20 +7,20 @@ permalink: /publication-and-project/
 ## Publications
 
 ### Journals
-* **[CSEM'21]Hong Cheng, Yihong Wang, Yunqing Wang, Tinggan Yang.** *"[Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression](https://link.springer.com/article/10.1007/s10614-021-10107-8)*, Computational Economics. 2021 (SSCI,SCI)
+* **[CSEM'21]Hong Cheng, Yihong Wang, Yunqing Wang, Tinggan Yang.** *"[Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression](https://link.springer.com/article/10.1007/s10614-021-10107-8)"*, Computational Economics. 2021 (SSCI,SCI)
 
-* **[Chaos’20] Hong Cheng、David Cai、Douglas Zhou.** *“The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”*, Chaos 30: 103102. 2020 (SCI)
+* **[Chaos’20] Hong Cheng、David Cai、Douglas Zhou.** *"[The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models](https://aip.scitation.org/doi/abs/10.1063/5.0006349)"*, Chaos 30: 103102. 2020 (SCI)
 
-* **[CES’19] 贺小娟，潘文捷，程宏** “基于集成学习方法的点击率预估模型研究”, 《计算机工程与科学》，2019, 041(012):2278-2284.（CSCD扩展，CCF推荐中文C类）
+* **[CES’19] 贺小娟，潘文捷，程宏** “[基于集成学习方法的点击率预估模型研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JSJK201912026&v=o4zWGFiYxi7e0qNf9x9H2EQ2k%25mmd2BUjHtilo9sEFFdASqy9VvCuDC3j8TuwR4Setkn7)”, 《计算机工程与科学》，2019, 041(012):2278-2284.（CSCD扩展，CCF推荐中文C类）
 
-* **[JSE’19] Hong Cheng, Tinggan Yang.** *“Research on contagion among stock markets of east asian based on conditional Granger causality in quantile”*, Journal of System Engineering. 2019; (程宏、杨廷干. “基于分位数条件Granger因果的东亚股市传染研究”, 《系统工程学报》，2019, 预计2021年4月见刊)（CSCD核心）
+* **[JSE’19] Hong Cheng, Tinggan Yang.** *"Research on contagion among stock markets of east asian based on conditional Granger causality in quantile"*, Journal of System Engineering. 2019; (程宏、杨廷干. “基于分位数条件Granger因果的东亚股市传染研究”, 《系统工程学报》，2019, 预计2021年4月见刊)（CSCD核心）
 
-* **[JOQE’18] Hong Cheng, Wenjie Pan.** *“A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles”*, The Journal of Quantitative Economics, 2018, 9(02): 78-101. (CSSCI) (程宏, 潘文捷. “基于Copula分位数格兰杰因果检验的股票市场相依性研究”，《数量经济研究》, 2018, 9(02): 78-101.（CSSCI）)
+* **[JOQE’18] Hong Cheng, Wenjie Pan.** *"A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles"*, The Journal of Quantitative Economics, 2018, 9(02): 78-101. (CSSCI) (程宏, 潘文捷. “[基于Copula分位数格兰杰因果检验的股票市场相依性研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2018&filename=JDSJ201802008&v=4fQGcHpfghPQuEBAva4adHbiO2J7%25mmd2BrYSoiZc6%25mmd2Fey7MOZsj9dqz007l0qSL0TMzdt)”，《数量经济研究》, 2018, 9(02): 78-101.（CSSCI）)
 
-* **[IJPAM’15] Hong Cheng, Lan Guo.** *“Local Largest Lyapunov Exponent is critical to threshold voltage and refractory period”*. Italian Journal of Pure and Applied
+* **[IJPAM’15] Hong Cheng, Lan Guo.** *"[Local Largest Lyapunov Exponent is critical to threshold voltage and refractory period](https://ijpam.uniud.it/online_issue/201534/19-ChengGuo.pdf)"*. Italian Journal of Pure and Applied
 Mathematics, Vol (34):189-200 June. 2015 (EI)
 
-* **[JCST’14] Hong Cheng, Lin Chen.** *“A Holistic Approach for Efficient Contour Detection”*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
+* **[JCST’14] Hong Cheng, Lin Chen.** *"[A Holistic Approach for Efficient Contour Detection](https://link.springer.com/article/10.1007%2Fs11390-014-1488-8)"*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
 2014 (SCI)
 
 ### Books
