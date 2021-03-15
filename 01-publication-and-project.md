@@ -35,7 +35,10 @@ Information Technology, Nanning GuangXi, August. 2013
 * **Hong Cheng, Xiaojun Song. (Submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
 
 * **Jie Ni, Jiayi Qian, Yixiao Lu, Hong Cheng.** *[The thermal power generation and economic growth in the central and western China: A heterogeneous mixed panel Granger-Causality approach.](https://arxiv.org/abs/2011.12161)* (https://arxiv.org/abs/2011.12161)
- 
+
+* **程宏、朱沈钦钰、潘文捷. (Revise)**  “省际人口流动与房价波动联动性研究---基于分位数格兰杰因果检验.”
+
+
 ## Working
 * **Hong Cheng, Yuping Wang. (Working).** *Exploring connectivity with Sparse Causality Neural Network Model on resting-state functional MRI.*
 
