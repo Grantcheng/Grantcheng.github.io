@@ -46,11 +46,11 @@ permalink: /people/
 <img style="max-width:300px" src="/assets/people/yuanjie.jpg" />
 
 ## Previous Group Members
-### **Chenhao Zhou** (2015 grade)
+### **Chenhao Zhou** (2015 grade, Now at DyteDance)
 
 <img style="max-width:300px" src="/assets/people/chenhao-zhou.jpg" />
 
-### **Lei Chen** (2015 grade)
+### **Lei Chen** (2015 grade, Now at Fudan University, Master)
 
 <img style="max-width:300px" src="/assets/people/lei-chen.jpg" />
 
