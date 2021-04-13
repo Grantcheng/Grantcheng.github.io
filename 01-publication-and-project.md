@@ -9,7 +9,7 @@ permalink: /publication-and-project/
 ### Journals
 * **[CSEM'21]Hong Cheng, Yihong Wang, Yunqing Wang, Tinggan Yang.** *"[Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression](https://link.springer.com/article/10.1007/s10614-021-10107-8)"*, Computational Economics. 2021 (SSCI,SCI)
 
-* **[Chaos’20] Hong Cheng、David Cai、Douglas Zhou.** *"[The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models](https://aip.scitation.org/doi/abs/10.1063/5.0006349)"*, Chaos 30: 103102. 2020 (SCI)
+* **[Chaos’20] Hong Cheng, David Cai, Douglas Zhou.** *"[The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models](https://aip.scitation.org/doi/abs/10.1063/5.0006349)"*, Chaos 30: 103102. 2020 (SCI)
 
 * **[CES’19] 贺小娟，潘文捷，程宏** “[基于集成学习方法的点击率预估模型研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JSJK201912026&v=o4zWGFiYxi7e0qNf9x9H2EQ2k%25mmd2BUjHtilo9sEFFdASqy9VvCuDC3j8TuwR4Setkn7)”, 《计算机工程与科学》，2019, 041(012):2278-2284.（CSCD扩展，CCF推荐中文C类）
 
