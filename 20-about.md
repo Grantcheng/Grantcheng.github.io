@@ -33,6 +33,8 @@ Jiangxi Science and Technology Normal University.
 * *5/2015-Presnet:* **Assistant Professor**, School of Statistics and Mathematics, 
 Shanghai Lixin University of Accounting and Finance.
 
+* *5/2021-4/2024:* **Serve Temporary Position**, Shanghai Municipal People's Govement Office in Xining.
+
 ## Experience
 * *10/2017-9/2018:* **Visiting Academic Research Scholar**, Courant Institute of Mathematical Sciences, New York University.
 
