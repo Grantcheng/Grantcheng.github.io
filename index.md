@@ -7,7 +7,7 @@ layout: home
 **Hong Cheng** received the B.S degree in electronic and information engineering from School of Communications and Electronics at Jiangxi Science and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.degree in Mathematics from the Department of Mathematics and Institute of Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now, he is an assistant professor at Shanghai LiXin University of Accounting and Finance. His research interests computational and theoretical neuroscience, include understanding of the relation between structure and functions of biological neuronal networks, discovery of potential mechanisms underlying information processing in the brain, Complex network, Time series analysis, Deep learning and Big data, Brain network and brain cognition. He is a member of the CCF, 2016 Shanghai "Sailing Scholar".
 
 ## Recent News
-* 05/10/2021-30/04/2024, Hong Cheng will serve temporary position at Shanghai Municipal People's Govement Office in Xining, QingHai, Province.
+* 05/10/2021-30/04/2024, Hong Cheng will serve temporary position at Shanghai Municipal People's Govement Office in Xining, QingHai, Province.(2021年5月-2024年4月 挂职 上海市人民政府驻西宁办事处)
 
 * 12/02/2021,  Hong Cheng, Yunqing Wang, Yihong Wang, Tinggan Yang. “Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression”  has been accepted for publication in Computational Economics
 
