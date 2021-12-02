@@ -20,23 +20,23 @@ for Economic Measurement (SEM), 2016 Shanghai “Sailing Scholar”.
 
 ## Education
 
-* *9/2011-3/2015:* **Ph.D**, Department of Mathematics and Institute of Natural
-Science, Shanghai Jiao Tong University.
+* *9/2011-3/2015:* **Ph.D**, [Department of Mathematics and Institute of Natural
+Science, Shanghai Jiao Tong University](https://ins.sjtu.edu.cn/peoples/chenghong).
 
 * *9/2009-7/2011:* **Master Degree**, Department of Mathematics and Institute of
 Natural Science, Shanghai Jiao Tong University. (Master-PhD combined program)
 
-* *9/2004-7/2008:* **Bachelor Degree**, School of Communications and Electronics,
-Jiangxi Science and Technology Normal University.
+* *9/2004-7/2008:* **Bachelor Degree**, [School of Communications and Electronics,
+Jiangxi Science and Technology Normal University](https://cy.jxstnu.edu.cn/news-show-78377.html).
 
 ## Affiliations
-* *5/2015-Presnet:* **Assistant Professor**, School of Statistics and Mathematics, 
-Shanghai Lixin University of Accounting and Finance.
+* *5/2015-Presnet:* **Assistant Professor**, [School of Statistics and Mathematics, 
+Shanghai Lixin University of Accounting and Finance](https://tsxy.lixin.edu.cn/szdw/jrtjj/71992.htm).
 
 * *5/2021-4/2024:* **Serve Temporary Position**, Shanghai Municipal People's Govement Office in Xining.
 
 ## Experience
-* *10/2017-9/2018:* **Visiting Academic Research Scholar**, Courant Institute of Mathematical Sciences, New York University.
+* *10/2017-9/2018:* **Visiting Academic Research Scholar**, [Courant Institute of Mathematical Sciences, New York University](https://math.nyu.edu/dynamic/people/visitors/visitors-ay2017-18/).
 
 * *12/2017-3/2018:* **Research Scientist**, The Multiscale Bioimaging and Bioinformatics Laboratory (MBB), Tulane University.
 
