@@ -47,6 +47,7 @@ permalink: /people/
 
 ## Previous Group Members
 ### **Yixiao Lu** (2017 grade, Now at The University of Auckland, Master)
+
 <img style="max-width:300px" src="/assets/people/yixiao-lu.jpg" />
 
 ### **Chenhao Zhou** (2015 grade, Now at DyteDance)
@@ -57,6 +58,9 @@ permalink: /people/
 
 <img style="max-width:300px" src="/assets/people/lei-chen.jpg" />
 
+### **Wenjie Pan** (2017 grade, Now at Xiamen University, PhD)
+
+<img style="max-width:300px" src="/assets/people/Wenjie-Pan.jpg" />
 
 ## Collaborators
 
