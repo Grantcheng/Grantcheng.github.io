@@ -58,7 +58,7 @@ permalink: /people/
 
 <img style="max-width:300px" src="/assets/people/lei-chen.jpg" />
 
-### **Wenjie Pan** (2017 grade, Now at Xiamen University, PhD)
+### **Wenjie Pan** (2013 grade, Now at Xiamen University, PhD)
 
 <img style="max-width:300px" src="/assets/people/Wenjie-Pan.jpg" />
 
