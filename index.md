@@ -7,6 +7,8 @@ layout: home
 **[Hong Cheng](https://orcid.org/0000-0001-9658-2313)** received the B.S degree in electronic and information engineering from the School of Communications and Electronics at Jiangxi Science and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.degree in Mathematics from the Department of Mathematics and Institute of Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now, he is an assistant professor at Shanghai Lixin University of Accounting and Finance. His research interests computational and theoretical neuroscience, including the understanding of the relation between structure and functions of biological neuronal networks, the discovery of potential mechanisms underlying information processing in the brain, Complex network, Time series analysis, Deep learning, and Big data, Brain network, and brain cognition. He is a member of the CCF, 2016 Shanghai “Sailing Scholar”.
 
 ## Recent News
+* 11/03/2022, 程宏, 殷林森. “全国两会高度关注数字经济发展，金融如何助力产业数字化转型？” 被《上观新闻》刊发
+
 * 05/10/2021-30/04/2024, Hong Cheng will serve temporary position at Shanghai Municipal People's Govement Office in Xining, QingHai, Province.(2021年5月-2024年4月 挂职 上海市人民政府驻西宁办事处)
 
 * 12/02/2021,  Hong Cheng, Yunqing Wang, Yihong Wang, Tinggan Yang. “Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression”  has been accepted for publication in Computational Economics
