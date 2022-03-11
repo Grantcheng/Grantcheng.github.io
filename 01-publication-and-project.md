@@ -26,7 +26,7 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 ### Books
 * **程宏 著**， “[统计因果推断模型理论与应用--基于大脑网络及金融市场研究](https://item.jd.com/12983536.html)”，经济科学出版社，2020年7月，ISBN：978-7-5141-6222-6
 
-## Decision-Making Consultation(决策咨询)
+### Decision-Making Consultation(决策咨询)
 * **程宏、殷林森**  “[全国两会高度关注数字经济发展，金融如何助力产业数字化转型？](https://www.shobserver.com/news/detail?id=459926)”, 上观新闻，2022年3月11日
 
 ### Conferences
