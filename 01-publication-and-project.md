@@ -26,6 +26,9 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 ### Books
 * **程宏 著**， “[统计因果推断模型理论与应用--基于大脑网络及金融市场研究](https://item.jd.com/12983536.html)”，经济科学出版社，2020年7月，ISBN：978-7-5141-6222-6
 
+## Decision-Making Consultation(决策咨询)
+* **程宏、殷林森**  “[全国两会高度关注数字经济发展，金融如何助力产业数字化转型？](https://www.shobserver.com/news/detail?id=459926)”, 上观新闻，2022年3月11日
+
 ### Conferences
 
 * **[ICCEIT2013] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By Superpixel Grouping”*. IEEE International Conference on Control Engineering and
@@ -37,7 +40,6 @@ Information Technology, Nanning GuangXi, August. 2013
 * **Jie Ni, Jiayi Qian, Yixiao Lu, Hong Cheng.** *[The thermal power generation and economic growth in the central and western China: A heterogeneous mixed panel Granger-Causality approach.](https://arxiv.org/abs/2011.12161)* (https://arxiv.org/abs/2011.12161)
 
 * **程宏、朱沈钦钰、潘文捷. (Revise)**  “省际人口流动与房价波动联动性研究---基于分位数格兰杰因果检验.”
-
 
 ## Working
 * **Hong Cheng, Yuping Wang. (Working).** *Exploring connectivity with Sparse Causality Neural Network Model on resting-state functional MRI.*
