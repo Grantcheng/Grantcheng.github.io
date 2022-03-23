@@ -13,8 +13,20 @@ permalink: /others/
 ![football](/assets/hobby/sport-football.jpg)
 
 ## Travel & Study
-![cycling](/assets/hobby/sport-1.jpg)
+![cycling](/assets/hobby/NYC_2017.jpg)
 
-![cycling](/assets/hobby/sport-1.jpg)
+![cycling](/assets/hobby/NYC_Brok_2017.jpg)
 
-![cycling](/assets/hobby/sport-1.jpg)
+![cycling](/assets/hobby/NYU_2017.jpg)
+
+![cycling](/assets/hobby/NewOrleans_2018.jpg)
+
+![cycling](/assets/hobby/NewOrleans_2017.jpg)
+
+![cycling](/assets/hobby/Qinghai_2021.jpg)
+
+![cycling](/assets/hobby/Qinghaihu_2022.jpg)
+
+![cycling](/assets/hobby/Riyueshan_2022.jpg)
+
+![cycling](/assets/hobby/Yushu_2021.jpg)
