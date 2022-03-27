@@ -13,7 +13,7 @@ layout: home
 
 * 12/02/2021,  Hong Cheng, Yunqing Wang, Yihong Wang, Tinggan Yang. *"[Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression](https://link.springer.com/article/10.1007/s10614-021-10107-8)"* has been accepted for publication in Computational Economics
 
-* 14/09/2020,  Hong Cheng, David Cai, Douglas Zhou. “The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”  has been accepted for publication in Chaos: An Interdisciplinary Journal of Nonlinear Science and is tentatively scheduled for publication in the October, 2020 issue 
+* 14/09/2020,  Hong Cheng, David Cai, Douglas Zhou. *"[The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models](https://aip.scitation.org/doi/abs/10.1063/5.0006349)"* has been accepted for publication in Chaos: An Interdisciplinary Journal of Nonlinear Science and is tentatively scheduled for publication in the October, 2020 issue 
 
 * 08/09/2020,  程宏 著. “统计因果推断模型理论与应用--基于大脑网络及金融市场研究” 出版， 2020年，经济科学出版社， ISBN：978-7-5141-6222-6   
 
