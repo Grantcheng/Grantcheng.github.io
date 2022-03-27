@@ -20,7 +20,7 @@ layout: home
 * 16/08/2019,  贺小娟, 潘文捷, 程宏. “[基于分位数条件Granger因果的东亚股市传染研究](http://jse.tju.edu.cn/ch/reader/create_pdf.aspx?file_no=20210306&flag=1&journal_id=jse&year_id=2021)” 被《计算机工程与科学》 接收
                               
 * 21/02/2019,  程宏, 杨廷干. “[基于Copula分位数格兰杰因果检验的股票市场相依性研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=JDSJ201802008&v=4fQGcHpfghPQuEBAva4adHbiO2J7%25mmd2BrYSoiZc6%25mmd2Fey7MO2GmDVKmYb9QVS72liaDr4)” 被《系统工程学报》 接收
-Hong Cheng, Tinggan Yang. "Research on contagion among stock markets of east asian based on conditional Granger causality in quantile", Journal of System Engineering, Accepted.
+(Hong Cheng, Tinggan Yang. "Research on contagion among stock markets of east asian based on conditional Granger causality in quantile", Journal of System Engineering, Accepted.)
 
 * 07/10/2017-30/09/2018, Hong Cheng will as a visiting scholar at **CIMS-NYU ( Courant Institute of Mathematical Sciences**, 2017.09-2018.09) New York, U.S.A. in the group of Prof. David Cai 
 
