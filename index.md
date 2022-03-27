@@ -11,7 +11,7 @@ layout: home
 
 * 10/05/2021-30/04/2024, Hong Cheng will serve temporary position at Shanghai Municipal People's Govement Office in Xining, QingHai, Province.(2021年5月-2024年4月 挂职 上海市人民政府驻西宁办事处)
 
-* 12/02/2021,  Hong Cheng, Yunqing Wang, Yihong Wang, Tinggan Yang. “Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression”  has been accepted for publication in Computational Economics
+* 12/02/2021,  Hong Cheng, Yunqing Wang, Yihong Wang, Tinggan Yang. *"[Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression](https://link.springer.com/article/10.1007/s10614-021-10107-8)"* has been accepted for publication in Computational Economics
 
 * 14/09/2020,  Hong Cheng, David Cai, Douglas Zhou. “The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models”  has been accepted for publication in Chaos: An Interdisciplinary Journal of Nonlinear Science and is tentatively scheduled for publication in the October, 2020 issue 
 
