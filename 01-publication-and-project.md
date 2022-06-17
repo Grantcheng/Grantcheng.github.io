@@ -31,7 +31,7 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 
 ### Conferences
 
-* **[ICCEIT2013] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By Superpixel Grouping”*.  Proceedings of the International
+* **[ICCEIS2014] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By Superpixel Grouping”*.  Proceedings of the International
 Conference on Control Engineering and Information System, pp:725-732, 2015.
 
 ## Preprint Papers
