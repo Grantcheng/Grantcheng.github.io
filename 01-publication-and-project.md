@@ -31,8 +31,7 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 
 ### Conferences
 
-* **[ICCEIT2013] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By Superpixel Grouping”*. IEEE International Conference on Control Engineering and
-Information Technology, Nanning GuangXi, August. 2013
+* **[ICCEIT2013] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By Superpixel Grouping”*. International Conference on Control Engineering and Information System, Yueyang, Hunan, China, June 20, 2014 - June 22, 2014
 
 ## Preprint Papers
 * **Hong Cheng, Xiaojun Song. (Submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
