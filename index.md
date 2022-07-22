@@ -7,6 +7,8 @@ layout: home
 **[Hong Cheng](https://orcid.org/0000-0001-9658-2313)** received the B.S degree in electronic and information engineering from the School of Communications and Electronics at Jiangxi Science and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.degree in Mathematics from the Department of Mathematics and Institute of Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now, he is an assistant professor at Shanghai Lixin University of Accounting and Finance. His research interests computational and theoretical neuroscience, including the understanding of the relation between structure and functions of biological neuronal networks, the discovery of potential mechanisms underlying information processing in the brain, Complex network, Time series analysis, Deep learning, and Big data, Brain network, and brain cognition. He is CCF senior membership, 2016 Shanghai “Sailing Scholar”.
 
 ## Recent News
+* 22/07/2022, 程宏, 杨廷干.  “[面对经济下行压力，中国经济如何稳定发展？这个环节不能“掉链”](https://web.shobserver.com/staticsg/res/html/web/newsDetail.html?id=509620)” 被《上观新闻》刊发
+
 * 10/06/2022, 被聘任为西宁大学筹建阶段金融研究院 副院长
 
 * 11/03/2022, 程宏, 殷林森.  “[全国两会高度关注数字经济发展，金融如何助力产业数字化转型？](https://www.shobserver.com/news/detail?id=459926)” 被《上观新闻》刊发
