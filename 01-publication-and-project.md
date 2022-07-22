@@ -29,6 +29,8 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 ### Decision-Making Consultation(决策咨询)
 * **程宏、殷林森**  “[全国两会高度关注数字经济发展，金融如何助力产业数字化转型？](https://www.shobserver.com/news/detail?id=459926)”, 上观新闻，2022年3月11日
 
+* **程宏、杨廷干** “[面对经济下行压力，中国经济如何稳定发展？这个环节不能“掉链”]([https://www.shobserver.com/news/detail?id=459926](https://web.shobserver.com/staticsg/res/html/web/newsDetail.html?id=509620))”, 上观新闻，2022年7月22日
+
 ### Conferences
 
 * **[ICCEIS2014] Hong Cheng, Jianhui Shang, Chao Zhang**, *“Object Extraction By Superpixel Grouping”*.  Proceedings of the International
