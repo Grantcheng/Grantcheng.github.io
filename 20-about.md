@@ -31,7 +31,7 @@ Jiangxi Science and Technology Normal University](https://cy.jxstnu.edu.cn/news-
 
 ## Affiliations
 * *6/2022-:* **Vice Dean**, [Institutes of Financial Studies, 
-Xining University].
+Xining University](https://h5.newaircloud.com/detailArticle/19697333_84097_xiningwb.html).
 
 * *1/2022-:* **Associate Professor**, [School of Statistics and Mathematics, 
 Shanghai Lixin University of Accounting and Finance](https://tsxy.lixin.edu.cn/szdw/jrtjj/71992.htm).
