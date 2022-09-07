@@ -30,7 +30,13 @@ Natural Science, Shanghai Jiao Tong University. (Master-PhD combined program)
 Jiangxi Science and Technology Normal University](https://cy.jxstnu.edu.cn/news-show-78377.html).
 
 ## Affiliations
-* *5/2015-Presnet:* **Assistant Professor**, [School of Statistics and Mathematics, 
+* *6/2022-:* **Vice Dean**, [Institutes of Financial Studies, 
+Xining University].
+
+* *1/2022-:* **Associate Professor**, [School of Statistics and Mathematics, 
+Shanghai Lixin University of Accounting and Finance](https://tsxy.lixin.edu.cn/szdw/jrtjj/71992.htm).
+
+* *5/2015-12/2021:* **Assistant Professor**, [School of Statistics and Mathematics, 
 Shanghai Lixin University of Accounting and Finance](https://tsxy.lixin.edu.cn/szdw/jrtjj/71992.htm).
 
 * *5/2021-4/2024:* **Serve Temporary Position**, Shanghai Municipal People's Govement Office in Xining.
