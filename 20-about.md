@@ -9,7 +9,7 @@ engineering from School of Communications and Electronics at Jiangxi Science
 and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.
 degree in Mathematics from the Department of Mathematics and Institute of
 Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now,
-he is a assistant professor at Shanghai LiXin University of Accounting and
+he is an associate professor at Shanghai LiXin University of Accounting and
 Finance. His research interests computational and theoretical neuroscience,
 include understanding of the relation between structure and functions of
 biological neuronal networks, discovery of potential mechanisms underlying
