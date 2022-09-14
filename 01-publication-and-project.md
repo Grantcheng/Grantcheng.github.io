@@ -43,6 +43,8 @@ Conference on Control Engineering and Information System, pp:725-732, 2015. (EI-
 
 * **程宏、朱沈钦钰、潘文捷. (Revise)**  “省际人口流动与房价波动联动性研究---基于分位数格兰杰因果检验.”
 
+* **Ruoli Zhao, Yong Xie, Hong Cheng, Xingxing Jia, Syed hamad shirazi. (Submitted).** *ePMLF: Efficient and Privacy-preserving Machine Learning Framework based on Fog computing.*
+
 ## Working
 * **Hong Cheng, Yuping Wang. (Working).** *Exploring connectivity with Sparse Causality Neural Network Model on resting-state functional MRI.*
 
