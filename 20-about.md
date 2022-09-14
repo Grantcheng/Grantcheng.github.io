@@ -4,19 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Hong Cheng** received the B.S degree in electronic and information
-engineering from School of Communications and Electronics at Jiangxi Science
-and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.
-degree in Mathematics from the Department of Mathematics and Institute of
-Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now,
-he is an associate professor at Shanghai LiXin University of Accounting and
-Finance. His research interests computational and theoretical neuroscience,
-include understanding of the relation between structure and functions of
-biological neuronal networks, discovery of potential mechanisms underlying
-information processing in the brain, and statistic and machine learning
-applications in medical image processingespecially the quantile regression
-causality in neuronal network and fMRI. He is a member of the CCF, The Society 
-for Economic Measurement (SEM), 2016 Shanghai “Sailing Scholar”.
+**[Hong Cheng](https://orcid.org/0000-0001-9658-2313)** received the B.S degree in electronic and information engineering from the School of Communications and Electronics at Jiangxi Science and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.degree in Mathematics from the Department of Mathematics and Institute of Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now, he is an associate professor at Shanghai Lixin University of Accounting and Finance, vice dean at Institute of Financial Studies of Xining University. His research interests computational and theoretical neuroscience, including the understanding of the relation between structure and functions of biological neuronal networks, the discovery of potential mechanisms underlying information processing in the brain, Complex network, Time series analysis, Deep learning, and Big data, Brain network, and brain cognition. He is CCF senior membership, 2016 Shanghai “Sailing Scholar”.
 
 ## Education
 
