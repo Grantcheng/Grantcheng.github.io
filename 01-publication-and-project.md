@@ -43,8 +43,6 @@ Conference on Control Engineering and Information System, pp:725-732, 2015. (EI-
 
 * **Jie Ni, Jiayi Qian, Yixiao Lu, Hong Cheng.** *[The thermal power generation and economic growth in the central and western China: A heterogeneous mixed panel Granger-Causality approach.](https://arxiv.org/abs/2011.12161)* (https://arxiv.org/abs/2011.12161)
 
-* **Ruoli Zhao, Yong Xie, Hong Cheng, Xingxing Jia, Syed hamad shirazi. (Submitted).** *ePMLF: Efficient and Privacy-preserving Machine Learning Framework based on Fog computing.*
-
 ## Working
 * **Hong Cheng, Yuping Wang. (Working).** *Exploring connectivity with Sparse Causality Neural Network Model on resting-state functional MRI.*
 
