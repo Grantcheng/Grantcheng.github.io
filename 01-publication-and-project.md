@@ -8,6 +8,8 @@ permalink: /publication-and-project/
 
 ### Journals
 * **[JASM'22] Hong Cheng, Shenqinyu Zhu, Wenjie Pan.** *“Research on the Linkage between Inter-provincial Population Flow and House Price Fluctuation–Based on Quantile Granger Causality Test”*, Journal of Applied Statistics and Management.2022 (CSSCI) (**程宏**、朱沈钦钰、潘文捷. “省际人口流动与房价波动联动性研究---基于分位数格兰杰因果检验”, 《数理统计与管理》, 2022) (CSSCI)
+
+* **[JASM'22] Ruoli Zhao, Yong Xie, Hong Cheng, Xingxing Jia,and Syed Zamad Shirazi.** *"[ePMLF: Efficient and Privacy-preserving Machine Learning Framework based on Fog computing](https://www.hindawi.com/journals/ijis/2023/8292559/)"*, International Journal of Intelligent Systems. 2023 (SCI)
  
 * **[CSEM'21] Hong Cheng, Yihong Wang, Yunqing Wang, Tinggan Yang.** *"[Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression](https://link.springer.com/article/10.1007/s10614-021-10107-8)"*, Computational Economics. 2021 (SSCI,SCI)
 
