@@ -7,7 +7,9 @@ layout: home
 **[Hong Cheng](https://orcid.org/0000-0001-9658-2313)** received the B.S degree in electronic and information engineering from the School of Communications and Electronics at Jiangxi Science and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.degree in Mathematics from the Department of Mathematics and Institute of Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now, he is an associate professor at Shanghai Lixin University of Accounting and Finance, vice dean at Institute of Financial Studies of Xining University. His research interests computational and theoretical neuroscience, including the understanding of the relation between structure and functions of biological neuronal networks, the discovery of potential mechanisms underlying information processing in the brain, Complex network, Time series analysis, Deep learning, and Big data, Brain network, and brain cognition. He is CCF senior membership, 2016 Shanghai “Sailing Scholar”.
 
 ## Recent News
-* 16/12/2022, 被聘为青海民族大学 金融专硕 研究生导师
+* 18/05/2023, 入选青海省“昆仑英才高端创新创业人才”计划 领军人才（柔性）
+
+* 16/12/2022, 被聘为青海民族大学 金融专硕 硕士研究生导师
 
 * 30/11/2022, Ruoli Zhao, Yong Xie, Hong Cheng, Xingxing Jia, Syed hamad shirazi. "[ePMLF: Efficient and Privacy-preserving Machine Learning Framework based on Fog computing](https://www.hindawi.com/journals/ijis/2023/8292559/)" has been accepted for publication in International Journal of Intelligent Systems
 
