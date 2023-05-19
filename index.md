@@ -13,7 +13,7 @@ layout: home
 
 * 30/11/2022, Ruoli Zhao, Yong Xie, Hong Cheng, Xingxing Jia, Syed hamad shirazi. "[ePMLF: Efficient and Privacy-preserving Machine Learning Framework based on Fog computing](https://www.hindawi.com/journals/ijis/2023/8292559/)" has been accepted for publication in International Journal of Intelligent Systems
 
-* 09/10/2022, 程宏, 朱沈钦钰, 潘文捷.  “省际人口流动与房价波动联动性研究--基于分位数格兰杰因果检验” 被《数理统计与管理》 接收
+* 09/10/2022, 程宏, 朱沈钦钰, 潘文捷.  “[省际人口流动与房价波动联动性研究--基于分位数格兰杰因果检验](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD675__obZrPYclokEnMQOoHEQBM6kmA1Rh8Aok7ubQHKq4IzAYykH73A&uniplatform=NZKPT)” 被《数理统计与管理》 接收
 (Hong Cheng, Shenqinyu Zhu, Wenjie Pan. "Research on the Linkage between Inter-provincial Population Flow and House Price Fluctuation--Based on Quantile Granger Causality Test", Journal of Applied Statistics and Management, Accepted.)
 
 * 22/07/2022, 程宏, 杨廷干.  “[面对经济下行压力，中国经济如何稳定发展？这个环节不能“掉链”](https://web.shobserver.com/staticsg/res/html/web/newsDetail.html?id=509620)” 被《上观新闻》刊发,同时被解放日报刊发 “[金融服务不“掉链”](https://www.jfdaily.com/staticsg/res/html/journal/detail.html?date=2022-07-26&id=337000&page=06)”
