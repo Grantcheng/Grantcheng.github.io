@@ -13,7 +13,7 @@ permalink: /teaching-and-training/
     <tr><th>No.</th><th>Semester</th><th>Course</th><th>Student</th><th>Links</th></tr>
   </thead>
   <tbody>
-    <tr><td>18</td><td>2021 Spring  </td><td>Python金融数据分析 </td><td>Master Student (2022级金融专硕--青海民族大学)  </td>
+    <tr><td>18</td><td>2023 Spring  </td><td>Python金融数据分析 </td><td>Master Student (2022级金融专硕--青海民族大学)  </td>
       <td></td></tr>
     <tr><td>18</td><td>2021 Spring  </td><td>统计学 </td><td>Undergraduate Student (2018级财政学)                    </td>
       <td></td></tr>
