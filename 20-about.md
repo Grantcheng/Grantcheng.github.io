@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**[Hong Cheng](https://orcid.org/0000-0001-9658-2313)** received the B.S degree in electronic and information engineering from the School of Communications and Electronics at Jiangxi Science and Technology Normal University, Nanchang, China, in 2008, and the Ph.D.degree in Mathematics from the Department of Mathematics and Institute of Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now, he is an associate professor at Shanghai Lixin University of Accounting and Finance, vice dean at Institute of Financial Studies of Xining University. His research interests computational and theoretical neuroscience, including the understanding of the relation between structure and functions of biological neuronal networks, the discovery of potential mechanisms underlying information processing in the brain, Complex network, Time series analysis, Deep learning, and Big data, Brain network, and brain cognition. He is CCF senior membership, 2016 Shanghai “Sailing Scholar”.
+**[Hong Cheng](https://orcid.org/0000-0001-9658-2313)** received a B.S degree in electronic and information engineering from the School of Communications and Electronics at Jiangxi Science and Technology Normal University, Nanchang, China, in 2008, and a Ph.D.degree in Mathematics from the Department of Mathematics and Institute of Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now, he is an associate professor at Shanghai Lixin University of Accounting and Finance, and vice dean at the Institute of Financial Studies of Qinghai Institute of Technology. His research interests computational and theoretical neuroscience, including the understanding of the relationship between the structure and functions of biological neuronal networks, the discovery of potential mechanisms underlying information processing in the brain, Complex networks, Time series analysis, Deep learning, and Big data, Brain network, and brain cognition. He is a CCF senior member and, 2016 Shanghai “Sailing Scholar”.
 
 ## Education
 
@@ -19,13 +19,13 @@ Jiangxi Science and Technology Normal University](https://cy.jxstnu.edu.cn/news-
 
 ## Affiliations
 * *6/2022-:* **Vice Dean**, [Institutes of Financial Studies, 
-Xining University](https://h5.newaircloud.com/detailArticle/19697333_84097_xiningwb.html).
+Qinghai Institute of Technology](https://h5.newaircloud.com/detailArticle/19697333_84097_xiningwb.html).
 
 * *1/2022-:* **Associate Professor**, [School of Statistics and Mathematics, 
-Shanghai Lixin University of Accounting and Finance](https://tsxy.lixin.edu.cn/szdw/jrtjj/71992.htm).
+Shanghai Lixin University of Accounting and Finance](https://tsxy.lixin.edu.cn/szdw/jrtjj/132960.htm).
 
 * *5/2015-12/2021:* **Assistant Professor**, [School of Statistics and Mathematics, 
-Shanghai Lixin University of Accounting and Finance](https://tsxy.lixin.edu.cn/szdw/jrtjj/71992.htm).
+Shanghai Lixin University of Accounting and Finance](https://tsxy.lixin.edu.cn/szdw/jrtjj/132960.htm).
 
 * *5/2021-4/2024:* **Serve Temporary Position**, Shanghai Municipal People's Govement Office in Xining.
 
