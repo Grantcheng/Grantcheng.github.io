@@ -18,7 +18,9 @@ Natural Science, Shanghai Jiao Tong University. (Master-PhD combined program)
 Jiangxi Science and Technology Normal University](https://cy.jxstnu.edu.cn/news-show-78377.html).
 
 ## Affiliations
-* *6/2022-:* **Vice Dean**, [Institutes of Financial Studies, 
+* *8/2023-:* **Director**, [Qinghai Provincial Key Laboratory of Big Data in Finance and Artificial Intelligence Application Technology](https://sxy.qhit.edu.cn/xianrenlingdao/806.html).
+
+* *6/2022-:* **Vice Dean**, [Business School(Institutes of Financial Studies), 
 Qinghai Institute of Technology](https://h5.newaircloud.com/detailArticle/19697333_84097_xiningwb.html).
 
 * *1/2022-:* **Associate Professor**, [School of Statistics and Mathematics, 
@@ -41,7 +43,7 @@ WenBo Building, Room 213
 
 Faculty of School of Statistics and Mathematics
 
-Shanghai LiXin University of Accounting and Finance, Pudong District, Shanghai, China
+Shanghai Lixin University of Accounting and Finance, Pudong District, Shanghai, China
 
 **Email:** [hcheng@cims.nyu.edu](mailto:hcheng@cims.nyu.edu) |
 [clx_2010@sjtu.edu.cn](mailto:clx_2010@sjtu.edu.cn)
