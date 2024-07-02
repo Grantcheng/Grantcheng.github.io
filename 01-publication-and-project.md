@@ -41,9 +41,11 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 Conference on Control Engineering and Information System, pp:725-732, 2015. (EI-Compendex)
 
 ## Preprint Papers
+* **Yang Li, Hong Cheng, Qiliang Wang. (Submitted).** *Exploring the Spatial Impact of Sci-Tech Finance on High-Quality Economic Development: A Regression Estimation Utilizing Entropy Weight Method, Text Analysis, and Spatial Autoregressive Model.*
+
 * **Hong Cheng, Xiaojun Song. (Submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
 
-* **Jie Ni, Jiayi Qian, Yixiao Lu, Hong Cheng.** *[The thermal power generation and economic growth in the central and western China: A heterogeneous mixed panel Granger-Causality approach.](https://arxiv.org/abs/2011.12161)* (https://arxiv.org/abs/2011.12161)
+* **Jie Ni, Jiayi Qian, Yixiao Lu, Hong Cheng.** *[The thermal power generation and economic growth in central and western China: A heterogeneous mixed panel Granger-Causality approach.](https://arxiv.org/abs/2011.12161)* (https://arxiv.org/abs/2011.12161)
 
 ## Working
 * **Hong Cheng, Yuping Wang. (Working).** *Exploring connectivity with Sparse Causality Neural Network Model on resting-state functional MRI.*
