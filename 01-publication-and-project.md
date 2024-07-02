@@ -41,7 +41,7 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 Conference on Control Engineering and Information System, pp:725-732, 2015. (EI-Compendex)
 
 ## Preprint Papers
-* **Yang Li, Hong Cheng, Qiliang Wang. (Submitted).** *Exploring the Spatial Impact of Sci-Tech Finance on High-Quality Economic Development: A Regression Estimation Utilizing Entropy Weight Method, Text Analysis, and Spatial Autoregressive Model.*
+* **Yang Li, Hong Cheng<sup>*</sup>, Qiliang Wang. (Submitted).** *Exploring the Spatial Impact of Sci-Tech Finance on High-Quality Economic Development: A Regression Estimation Utilizing Entropy Weight Method, Text Analysis, and Spatial Autoregressive Model.*
 
 * **Hong Cheng, Xiaojun Song. (Submitted).** *A nonparametric test for Granger-causality---Specification in quantile models.*
 
