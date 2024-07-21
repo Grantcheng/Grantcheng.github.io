@@ -27,6 +27,8 @@ permalink: /others/
 
 ![cycling](/assets/hobby/Qinghaihu_2022.jpg)
 
-![cycling](/assets/hobby/Riyueshan_2022.jpg)
+![cycling](/assets/hobby/2022年玛多调研.jpg)
+
+![cycling](/assets/hobby/年宝玉则.jpg)
 
 ![cycling](/assets/hobby/Yushu_2021.jpg)
