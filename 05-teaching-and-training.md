@@ -13,7 +13,7 @@ permalink: /teaching-and-training/
     <tr><th>No.</th><th>Semester</th><th>Course</th><th>Student</th><th>Links</th></tr>
   </thead>
   <tbody>
-     <tr><td>16</td><td>2020 Fall  </td><td>深度学习理论与实践 (Theory and Practice of Deep Learning)  </td><td>Undergraduate Student (2022级金融科技、金融工程（中美）)              </td>
+     <tr><td>16</td><td>2024 Fall  </td><td>深度学习理论与实践 (Theory and Practice of Deep Learning)  </td><td>Undergraduate Student (2022级金融科技、金融工程（中美）)              </td>
         <td><a href="https://mooc1.chaoxing.com/mooc-ans/course/244871984.html">Link</a></td></tr>
     <tr><td>18</td><td>2023 Spring  </td><td>Python金融数据分析 </td><td>Master Student (2022级金融专硕--青海民族大学)  </td>
       <td></td></tr>
