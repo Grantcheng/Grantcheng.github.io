@@ -7,6 +7,8 @@ layout: home
 **[Hong Cheng](https://orcid.org/0000-0001-9658-2313)** received a B.S degree in electronic and information engineering from the School of Communications and Electronics at Jiangxi Science and Technology Normal University, Nanchang, China, in 2008, and a Ph.D.degree in Mathematics from the Department of Mathematics and Institute of Natural Science, Shanghai Jiao Tong University, Shanghai, China, in 2015. Now, he is an associate professor at Shanghai Lixin University of Accounting and Finance, vice dean at the Institute of Financial Studies of Qinghai Institute of Technology, and Director of Qinghai Provincial Key Laboratory of Big Data in Finance and Artificial Intelligence Application Technology. His research interests computational and theoretical neuroscience, including the understanding of the relationship between the structure and functions of biological neuronal networks, the discovery of potential mechanisms underlying information processing in the brain, Complex networks, Time series analysis, Deep learning, and Big data, Brain network, and brain cognition. He is a CCF senior member and, 2016 Shanghai “Sailing Scholar”.
 
 ## Recent News
+* 2/12/2024, 《金融强国指数视角下的上海高水平金融对外开放探索研究》获2024年度上海市哲学社会科学规划课题立项
+  
 * 22/07/2024-25/07/2024, 《AI赋能混合式教学创新实践——数字素养提升研讨会》（青海省大数据金融与人工智能应用技术重点实验室 主办方之一）在青海理工学院 顺利召开
 
 * 06/01/2024, 《金融大模型研讨会暨FinGPT成果展示会》（青海省大数据金融与人工智能应用技术重点实验室 主办方） 在青海理工学院 顺利召开
