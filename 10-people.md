@@ -64,7 +64,7 @@ permalink: /people/
 
 ## Collaborators
 
-### *Prof. David Cai* (Master, PhD and Visiting Advisor)  
+### *Prof. David Cai* (Master, PhD, and Visiting Advisor)  
 [https://math.nyu.edu/~cai/](https://math.nyu.edu/~cai/)
 
 *Courant Institute of Mathematical Sciences, New York University, New York, U.S.A*  
@@ -73,7 +73,7 @@ permalink: /people/
 ### *Prof. Douglas Zhou* (Master and PhD Advisor)  
 [http://ins.sjtu.edu.cn/people/zdz/](http://ins.sjtu.edu.cn/people/zdz/)  
 
-*Shanghai Jiaotong University,Shanghai, China* 
+*Shanghai Jiaotong University, Shanghai, China* 
 
 ### *Prof. Yuping Wang* (Visiting Advisor)  
 [http://www2.tulane.edu/sse/bme/faculty/wang.cfm](http://www2.tulane.edu/sse/bme/faculty/wang.cfm)  
@@ -84,6 +84,9 @@ permalink: /people/
 ### *Prof. Xiaojun Song*  
 [http://www.gsm.pku.edu.cn/jsjjxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1141&user_id=sxj](http://www.gsm.pku.edu.cn/jsjjxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1141&user_id=sxj)  
 
-*Peking University, Guanghua School of Management Beijing, China*
+*Peking University, Guanghua School of Management, Beijing, China*
 
+### *Prof. Liwen Zhang*  
+[https://ssm.sufe.edu.cn/ce/6e/c712a118382/page.htm](https://ssm.sufe.edu.cn/ce/6e/c712a118382/page.htm)  
 
+*Shanghai University of Finance and Economics, School of Statistics and Data Science, Shanghai, China*
