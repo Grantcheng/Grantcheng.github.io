@@ -87,6 +87,6 @@ permalink: /people/
 *Peking University, Guanghua School of Management, Beijing, China*
 
 ### *Prof. Liwen Zhang*  
-[https://ssm.sufe.edu.cn/ce/6e/c712a118382/page.htm](https://ssm.sufe.edu.cn/ce/6e/c712a118382/page.htm)  
+[https://ssm.sufe.edu.cn/9d/43/c716a236867/page.htm](https://ssm.sufe.edu.cn/9d/43/c716a236867/page.htm)  
 
 *Shanghai University of Finance and Economics, School of Statistics and Data Science, Shanghai, China*
