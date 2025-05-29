@@ -15,7 +15,9 @@ His research interests include financial statistics and risk management, artific
 
 * 26/05/2025, 由教育部虚拟教研室建设试点“金融学专业虚拟教研室”（上海立信会计金融学院）主办，青海民族大学经济与管理学院、青海理工学院商学院、上海立信会计金融学院金融学院、金融科技学院承办，青海省大数据金融与人工智能应用技术重点实验室协办的[“金融类一流专业建设”研讨会](https://jrxy.lixin.edu.cn/sx/hyxw/146523.htm)在青海民族大学成功召开
 
-* 21/05/2025, 重点实验室谢永教授团队论文《EPREAR: AnEfficient Attribute-based Proxy Re-encryption Scheme with Fast Revocationfor Data Sharing in AloT》has been accepted by IEEE Transactions on Mobile Computing （CCF-A类）
+* 21/05/2025, 重点实验室谢永教授团队论文“EPREAR: AnEfficient Attribute-based Proxy Re-encryption Scheme with Fast Revocationfor Data Sharing in AloT”has been accepted by IEEE Transactions on Mobile Computing （CCF-A类）
+
+* 14/05/2025, 重点实验室潘文捷博士论文“[新基建、要素配置扭曲与“双循环”新发展格局——基于2004-2022年行业全要素生产率的实证检验](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqyMGcJkAyRRiIPp2Jj2Rvu_g975TeFoRzBahLbvldnmIH8PaYYCJ-5PYrblpWSgpEnQYiCmUJ8e-VJoUBi3WrWJjuB08_CcHLof3a9C1d-cmYwduYG0dDFko_Ne7_f2bJ_SUjhiQ58EoOfv0Co2vmEyaR-5nKA-q1HQCqYlGEeBDw==&uniplatform=NZKPT&language=CHS)” 被《数理统计与管理》网络首发
 
 * 16/12/2024, 在中共上海市委金融委员会办公室、上海市经济和信息化委员会指导下，上海市人工智能行业协会和上海金融业联合会联合发布全国首个以金融业务能力为核心的团体标准[《金融大模型应用评测指南》](https://www.shanghai.gov.cn/nw4411/20241207/e18c2573e4364bc383cfcf730c746670.html)，张立文教授、程宏副教授参与团体标准起草，上海立信会计金融学院、青海省大数据金融与人工智能应用技术重点实验室为起草单位之一
   
