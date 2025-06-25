@@ -11,7 +11,7 @@ He was a visiting scholar at the Courant Institute of Mathematical Sciences (CIM
 His research interests include financial statistics and risk management, artificial intelligence and its applications, causal inference, and computational and theoretical neuroscience. He is a 2016 Shanghai “Sailing Scholar”, a Senior Member of the China Computer Federation (CCF). He serves as a reviewer for journals including Computational Economics and Economic Modelling.
 
 ## Recent News
-* 22/06/2025, 由程宏副教授作为执行主席的["智能金融与去中心化支付技术：推动上海金融科技中心建设的应用与挑战"论坛]在上海举办，获得新民晚报 上观新闻关注(https://web.shobserver.com/staticsg/res/html/web/newsDetail.html?id=935357)
+* 22/06/2025, 由程宏副教授作为执行主席的[“智能金融与去中心化支付技术：推动上海金融科技中心建设的应用与挑战”论坛]在上海举办，获得新民晚报 上观新闻关注(https://web.shobserver.com/staticsg/res/html/web/newsDetail.html?id=935357)
 
 * 26/05/2025, [教育部虚拟教研室建设试点“金融学专业虚拟教研室”西部行：赴重点实验室调研交流](https://jrxy.lixin.edu.cn/sx/hyxw/146526.htm)
 
