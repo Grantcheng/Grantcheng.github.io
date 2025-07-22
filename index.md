@@ -11,13 +11,17 @@ He was a visiting scholar at the Courant Institute of Mathematical Sciences (CIM
 His research interests include financial statistics and risk management, artificial intelligence and its applications, causal inference, and computational and theoretical neuroscience. He is a 2016 Shanghai “Sailing Scholar”, a Senior Member of the China Computer Federation (CCF). He serves as a reviewer for journals including Computational Economics and Economic Modelling.
 
 ## Recent News
+* 28/07/2025, 由CCF YOCSEF兰州、西安与上海联合发起的“YOCSEF西部行”活动：YOCSEF协同探索数字经济驱动西北特色产业高质量发展路径，即将在青海理工学院省级重点实验室举办。
+
+* 28/07/2025, 由青海省大数据金融与人工智能应用技术重点实验室主办的《人工智能与金融创新学术论坛》即将在青海理工学院省级重点实验室举办。
+  
 * 22/06/2025,由程宏副教授作为执行主席的[“智能金融与去中心化支付技术：推动上海金融科技中心建设的应用与挑战”论坛](https://web.shobserver.com/staticsg/res/html/web/newsDetail.html?id=935357)在上海举办，获得新民晚报 上观新闻关注
 
 * 26/05/2025, [教育部虚拟教研室建设试点“金融学专业虚拟教研室”西部行：赴重点实验室调研交流](https://jrxy.lixin.edu.cn/sx/hyxw/146526.htm)
 
 * 26/05/2025, 由教育部虚拟教研室建设试点“金融学专业虚拟教研室”（上海立信会计金融学院）主办，青海民族大学经济与管理学院、青海理工学院商学院、上海立信会计金融学院金融学院、金融科技学院承办，青海省大数据金融与人工智能应用技术重点实验室协办的[“金融类一流专业建设”研讨会](https://jrxy.lixin.edu.cn/sx/hyxw/146523.htm)在青海民族大学成功召开
 
-* 21/05/2025, 重点实验室谢永教授团队论文“EPREAR: AnEfficient Attribute-based Proxy Re-encryption Scheme with Fast Revocationfor Data Sharing in AloT”has been accepted by IEEE Transactions on Mobile Computing （CCF-A类）
+* 21/05/2025, 重点实验室谢永教授团队论文“EPREAR: An Efficient Attribute-based Proxy Re-encryption Scheme with Fast Revocation for Data Sharing in AloT” has been accepted by IEEE Transactions on Mobile Computing （CCF-A类）
 
 * 14/05/2025, 重点实验室潘文捷博士论文“[新基建、要素配置扭曲与“双循环”新发展格局——基于2004-2022年行业全要素生产率的实证检验](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqyMGcJkAyRRiIPp2Jj2Rvu_g975TeFoRzBahLbvldnmIH8PaYYCJ-5PYrblpWSgpEnQYiCmUJ8e-VJoUBi3WrWJjuB08_CcHLof3a9C1d-cmYwduYG0dDFko_Ne7_f2bJ_SUjhiQ58EoOfv0Co2vmEyaR-5nKA-q1HQCqYlGEeBDw==&uniplatform=NZKPT&language=CHS)” 被《数理统计与管理》网络首发
 
