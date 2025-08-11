@@ -11,9 +11,11 @@ He was a visiting scholar at the Courant Institute of Mathematical Sciences (CIM
 His research interests include financial statistics and risk management, artificial intelligence and its applications, causal inference, and computational and theoretical neuroscience. He is a 2016 Shanghai “Sailing Scholar”, a Senior Member of the China Computer Federation (CCF). He serves as a reviewer for journals including Computational Economics and Economic Modelling.
 
 ## Recent News
-* 28/07/2025, 由CCF YOCSEF兰州、西安与上海联合发起的“YOCSEF西部行”活动：YOCSEF协同探索数字经济驱动西北特色产业高质量发展路径，即将在青海理工学院省级重点实验室举办。
+* 08/08/2025, 发明专利 **流程制造生产计划策略确定方法、系统及装置**获得授权（发明人：**程宏**、刘琼、王胜、李魏峰、韩彩亮；申请人：杭州田涧云工业科技有限公司），**授权号：CN114819601B**。 
+ 
+* 28/07/2025, 由CCF YOCSEF兰州、西安与上海联合发起的“YOCSEF西部行”活动：YOCSEF协同探索数字经济驱动西北特色产业高质量发展路径，在青海理工学院省级重点实验室顺利举办。
 
-* 28/07/2025, 由青海省大数据金融与人工智能应用技术重点实验室主办的《人工智能与金融创新学术论坛》即将在青海理工学院省级重点实验室举办。
+* 28/07/2025, 由青海省大数据金融与人工智能应用技术重点实验室主办的《人工智能与金融创新学术论坛》在青海理工学院省级重点实验室顺利举办。
   
 * 22/06/2025,由程宏副教授作为执行主席的[“智能金融与去中心化支付技术：推动上海金融科技中心建设的应用与挑战”论坛](https://web.shobserver.com/staticsg/res/html/web/newsDetail.html?id=935357)在上海举办，获得新民晚报 上观新闻关注
 
