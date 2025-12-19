@@ -11,6 +11,8 @@ He was a visiting scholar at the Courant Institute of Mathematical Sciences (CIM
 His research interests include financial statistics and risk management, artificial intelligence and its applications, causal inference, and computational and theoretical neuroscience. He is a 2016 Shanghai “Sailing Scholar”, a Senior Member of the China Computer Federation (CCF). He serves as a reviewer for journals including Computational Economics and Economic Modelling.
 
 ## Recent News
+* 19/12/2025, 程宏副教授在《经济参考报》发表[《探索“财经+STEM”教育新范式 加快构建财经类高校育人新体系》](http://jjckb.xinhuanet.com/20251219/6c3db906093d4584b9c05ff3bacdf2b3/c.html)文章
+
 * 1/10/2025, 程宏副教授 申报的《基于“专业-产业-就业”三元协同的智能化产教融合路径探索》获中国高等教育学会“2025年度高等教育科学研究规划课题”重点课题立项
   
 * 08/08/2025, 发明专利 **流程制造生产计划策略确定方法、系统及装置**获得授权（发明人：**程宏**、刘琼、王胜、李魏峰、韩彩亮；申请人：杭州田涧云工业科技有限公司），**授权号：CN114819601B**。 
