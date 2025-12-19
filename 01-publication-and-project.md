@@ -22,7 +22,7 @@ permalink: /publication-and-project/
 * **[JOQE’18] Hong Cheng, Wenjie Pan.** *"A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles"*, The Journal of Quantitative Economics, 2018, 9(02): 78-101. (CSSCI) (**程宏**, 潘文捷. “[基于Copula分位数格兰杰因果检验的股票市场相依性研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=JDSJ201802008&v=4fQGcHpfghPQuEBAva4adHbiO2J7%25mmd2BrYSoiZc6%25mmd2Fey7MO2GmDVKmYb9QVS72liaDr4)”，《数量经济研究》, 2018, 9(02): 78-101) (CSSCI)
 
 * **[IJPAM’15] Hong Cheng, Lan Guo.** *"[Local Largest Lyapunov Exponent is critical to threshold voltage and refractory period](https://ijpam.uniud.it/online_issue/201534/19-ChengGuo.pdf)"*. Italian Journal of Pure and Applied
-Mathematics, Vol (34):189-200 June. 2015 (EI)
+Mathematics, Vol 34:189-200 June. 2015 (EI)
 
 * **[JCST’14] Hong Cheng, Lin Chen.** *"[A Holistic Approach for Efficient Contour Detection](https://link.springer.com/article/10.1007%2Fs11390-014-1488-8)"*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
 2014 (SCI)
@@ -31,6 +31,8 @@ Mathematics, Vol (34):189-200 June. 2015 (EI)
 * **程宏 著**， “[统计因果推断模型理论与应用--基于大脑网络及金融市场研究](https://item.jd.com/12983536.html)”，经济科学出版社，2020年7月，ISBN：978-7-5141-6222-6
 
 ### Decision-Making Consultation(决策咨询)
+* **程宏**[《探索“财经+STEM”教育新范式 加快构建财经类高校育人新体系》](http://jjckb.xinhuanet.com/20251219/6c3db906093d4584b9c05ff3bacdf2b3/c.html)，经济参考报，2025年12月19日
+
 * **程宏、杨廷干** “[面对经济下行压力，中国经济如何稳定发展？这个环节不能“掉链”](https://web.shobserver.com/staticsg/res/html/web/newsDetail.html?id=509620)”, 上观新闻，2022年7月22日（同时被解放日报刊发 “[金融服务不“掉链”](https://www.jfdaily.com/staticsg/res/html/journal/detail.html?date=2022-07-26&id=337000&page=06)”）
 
 * **程宏、殷林森**  “[全国两会高度关注数字经济发展，金融如何助力产业数字化转型？](https://www.shobserver.com/news/detail?id=459926)”, 上观新闻，2022年3月11日
@@ -70,6 +72,8 @@ Conference on Control Engineering and Information System, pp:725-732, 2015. (EI-
 * **“大脑神经元网络的因果关系重建”**, The Seminar of Young Scholars on Complex Network, University of Shanghai for Science and Technology, *May.13, 2015*
 
 ## Projects
+* **中国高等教育学会“2025年度高等教育科学研究规划课题”重点课题**、 "基于“专业-产业-就业”三元协同的智能化产教融合路径探索"、"2025/12-2027/12"、进行中、**主持**
+
 * **2024年度上海市哲学社会科学规划课题一般项目**、 "金融强国指数视角下的上海高水平金融对外开放探索研究（2024JG064-BJB532）"、 "2024/12-2025/11"、 进行中、 **主持**
   
 * **2022年度上海立信会计金融学院青年骨干教师创新团队建设项目**、 "面板分位数格兰杰因果检验及其应用研究（CXTD2022006）"、 "2022/5-2024/4"、 已结题、 **主持**
