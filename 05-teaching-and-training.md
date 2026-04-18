@@ -13,6 +13,8 @@ permalink: /teaching-and-training/
     <tr><th>No.</th><th>Semester</th><th>Course</th><th>Student</th><th>Links</th></tr>
   </thead>
   <tbody>
+        <tr><td>21</td><td>2025 Spring  </td><td>金融数据挖掘与机器学习 (Financial Data Mining and Machine Learning)  </td><td>Undergraduate Student (2022级金融科技)              </td>
+        <td><a href="https://mooc1.chaoxing.com/mooc-ans/course/250116468.html">Link</a></td></tr>
     <tr><td>21</td><td>2025 Spring  </td><td>网络爬虫数据采集实践 (Data Collection Practice of Web Crawler)  </td><td>Undergraduate Student (2023级金融科技)              </td>
         <td><a href="https://mooc1.chaoxing.com/mooc-ans/course/250116468.html">Link</a></td></tr>
      <tr><td>20</td><td>2024 Fall  </td><td>深度学习理论与实践 (Theory and Practice of Deep Learning)  </td><td>Undergraduate Student (2022级金融科技、金融工程（中美）)              </td>
