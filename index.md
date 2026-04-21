@@ -13,6 +13,8 @@ He was a visiting scholar at the Courant Institute of Mathematical Sciences (CIM
 His research interests include financial statistics and risk management, artificial intelligence and its applications, causal inference, and computational and theoretical neuroscience. He is a 2016 Shanghai “Sailing Scholar”, a Senior Member of the China Computer Federation (CCF), and an AC Member of CCF YOCSEF Shanghai. He serves as a reviewer for journals including Computational Economics and Economic Modelling.
 
 ## Recent News
+* 20/04/2026, Yixiong Xu, Feipeng Zhang, Caiyun Fan, Hong Cheng & Xu Liu. "[Time-varying causal effects between green finance and traditional financial markets in China: evidence from a multi-frequency perspective](https://doi.org/10.1080/00036846.2026.2661880)" has been accepted for publication in Applied Economics
+
 * 19/12/2025, 程宏副教授在《经济参考报》发表[《探索“财经+STEM”教育新范式 加快构建财经类高校育人新体系》](http://jjckb.xinhuanet.com/20251219/6c3db906093d4584b9c05ff3bacdf2b3/c.html)文章
 
 * 1/10/2025, 程宏副教授 申报的《基于“专业-产业-就业”三元协同的智能化产教融合路径探索》获中国高等教育学会“2025年度高等教育科学研究规划课题”重点课题立项
@@ -58,11 +60,11 @@ His research interests include financial statistics and risk management, artific
 
 * 11/03/2022, 程宏, 殷林森.  “[全国两会高度关注数字经济发展，金融如何助力产业数字化转型？](https://www.shobserver.com/news/detail?id=459926)” 被《上观新闻》刊发
 
-* 10/05/2021-30/04/2024, Hong Cheng will serve temporary position at Shanghai Municipal People's Govement Office in Xining, QingHai, Province.(2021年5月-2024年4月 挂职 上海市人民政府驻西宁办事处)
+* 10/05/2021-30/04/2024, Hong Cheng will serve a temporary position at the Shanghai Municipal People's Government Office in Xining, Qinghai, Province.(2021年5月-2024年4月 挂职 上海市人民政府驻西宁办事处)
 
 * 12/02/2021,  Hong Cheng, Yunqing Wang, Yihong Wang, Tinggan Yang. *"[Inferring causal interactions in financial markets using conditional Granger causality based on quantile regression](https://link.springer.com/article/10.1007/s10614-021-10107-8)"* has been accepted for publication in Computational Economics
 
-* 14/09/2020,  Hong Cheng, David Cai, Douglas Zhou. *"[The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models](https://aip.scitation.org/doi/abs/10.1063/5.0006349)"* has been accepted for publication in Chaos: An Interdisciplinary Journal of Nonlinear Science and is tentatively scheduled for publication in the October, 2020 issue 
+* 14/09/2020,  Hong Cheng, David Cai, Douglas Zhou. *"[The Extended Granger Causality Analysis for Hodgkin-Huxley Neuronal Models](https://aip.scitation.org/doi/abs/10.1063/5.0006349)"* has been accepted for publication in Chaos: An Interdisciplinary Journal of Nonlinear Science and is tentatively scheduled for publication in the October 2020 issue 
 
 * 08/09/2020,  程宏 著. “[统计因果推断模型理论与应用--基于大脑网络及金融市场研究](https://item.jd.com/12983536.html)” 出版， 2020年，经济科学出版社， ISBN：978-7-5141-6222-6   
 
