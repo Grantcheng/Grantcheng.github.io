@@ -13,6 +13,8 @@ He was a visiting scholar at the Courant Institute of Mathematical Sciences (CIM
 His research interests include financial statistics and risk management, artificial intelligence and its applications, causal inference, and computational and theoretical neuroscience. He is a 2016 Shanghai “Sailing Scholar”, a Senior Member of the China Computer Federation (CCF), and an AC Member of CCF YOCSEF Shanghai. He serves as a reviewer for journals including Computational Economics and Economic Modelling.
 
 ## Recent News
+* 08/09/2026, 程宏副教授 申报的《基于高维数据的因果推断统计方法及其在RCEP 区域政策评估中的应用研究》（Grant No.2026LZ004）获2026年度全国统计科学研究重点项目立项
+
 * 20/04/2026, Yixiong Xu, Feipeng Zhang, Caiyun Fan, Hong Cheng & Xu Liu. "[Time-varying causal effects between green finance and traditional financial markets in China: evidence from a multi-frequency perspective](https://doi.org/10.1080/00036846.2026.2661880)" has been accepted for publication in Applied Economics
 
 * 19/12/2025, 程宏副教授在《经济参考报》发表[《探索“财经+STEM”教育新范式 加快构建财经类高校育人新体系》](http://jjckb.xinhuanet.com/20251219/6c3db906093d4584b9c05ff3bacdf2b3/c.html)文章
@@ -31,7 +33,7 @@ His research interests include financial statistics and risk management, artific
 
 * 26/05/2025, 由教育部虚拟教研室建设试点“金融学专业虚拟教研室”（上海立信会计金融学院）主办，青海民族大学经济与管理学院、青海理工学院商学院、上海立信会计金融学院金融学院、金融科技学院承办，青海省大数据金融与人工智能应用技术重点实验室协办的[“金融类一流专业建设”研讨会](https://jrxy.lixin.edu.cn/sx/hyxw/146523.htm)在青海民族大学成功召开
 
-* 21/05/2025, 重点实验室谢永教授团队论文“EPREAR: An Efficient Attribute-based Proxy Re-encryption Scheme with Fast Revocation for Data Sharing in AloT” has been accepted by IEEE Transactions on Mobile Computing （CCF-A类）
+* 21/05/2025, 重点实验室谢永教授团队论文“EPREAR: An Efficient Attribute-based Proxy Re-encryption Scheme with Fast Revocation for Data Sharing in AloT” has been accepted by IEEE Transactions on Mobile Computing (CCF-A类）
 
 * 14/05/2025, 重点实验室潘文捷博士论文“[新基建、要素配置扭曲与“双循环”新发展格局——基于2004-2022年行业全要素生产率的实证检验](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqyMGcJkAyRRiIPp2Jj2Rvu_g975TeFoRzBahLbvldnmIH8PaYYCJ-5PYrblpWSgpEnQYiCmUJ8e-VJoUBi3WrWJjuB08_CcHLof3a9C1d-cmYwduYG0dDFko_Ne7_f2bJ_SUjhiQ58EoOfv0Co2vmEyaR-5nKA-q1HQCqYlGEeBDw==&uniplatform=NZKPT&language=CHS)” 被《数理统计与管理》网络首发
 
