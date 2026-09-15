@@ -24,7 +24,7 @@ permalink: /publication-and-project/
 * **[JOQE’18] Hong Cheng, Wenjie Pan.** *"A Study on the Relativity of Stock Market Based on Copula 's Granger Causality Test in Quantiles"*, The Journal of Quantitative Economics, 2018, 9(02): 78-101. (CSSCI) (**程宏**, 潘文捷. “[基于Copula分位数格兰杰因果检验的股票市场相依性研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=JDSJ201802008&v=4fQGcHpfghPQuEBAva4adHbiO2J7%25mmd2BrYSoiZc6%25mmd2Fey7MO2GmDVKmYb9QVS72liaDr4)”，《数量经济研究》, 2018, 9(02): 78-101) (CSSCI)
 
 * **[IJPAM’15] Hong Cheng, Lan Guo.** *"[Local Largest Lyapunov Exponent is critical to threshold voltage and refractory period](https://ijpam.uniud.it/online_issue/201534/19-ChengGuo.pdf)"*. Italian Journal of Pure and Applied
-Mathematics, Vol 34:189-200 June. 2015 (EI)
+Mathematics, Vol. 34:189-200 June. 2015 (EI)
 
 * **[JCST’14] Hong Cheng, Lin Chen.** *"[A Holistic Approach for Efficient Contour Detection](https://link.springer.com/article/10.1007%2Fs11390-014-1488-8)"*, Journal of Computer Science and Technology, 29 (6): 1038-1047 Nov.
 2014 (SCI)
@@ -67,13 +67,15 @@ Conference on Control Engineering and Information System, pp:725-732, 2015. (EI-
 
 * **“Granger Causality in Sparse Neuronal Network”**, The Multiscale Bioimaging and Bioinformatics Laboratory (MBB), Tulane University, USA, *January. 10, 2018* 
 
-* **“Specification tests for Conditional Granger causality in quantiles”**, Workshop on Data Analysis and Nonlinear Dynamic System, Shanghai Lixin University of Accounting and Finance, *June. 27, 2017* 
+* **“Specification tests for Conditional Granger causality in quantiles”**, Workshop on Data Analysis and Nonlinear Dynamic System, Shanghai Lixin University of Accounting and Finance, *June 27, 2017* 
 
 * **“Object Extraction By Superpixel Grouping”**, The Ph.D. Candidate Forum on Computational and Applied Mathematics, Department of Mathematics, Ministry of Education Key Laboratory of Scientific and Engineering Computing, and Institute of Natural Sciences, Shanghai Jiao Tong University, *Oct.13, 2012*
 
-* **“大脑神经元网络的因果关系重建”**, The Seminar of Young Scholars on Complex Network, University of Shanghai for Science and Technology, *May.13, 2015*
+* **“大脑神经元网络的因果关系重建”**, The Seminar of Young Scholars on Complex Network, University of Shanghai for Science and Technology, *May 13, 2015*
 
 ## Projects
+* **2026年度全国统计科学研究重点项目**、 "基于高维数据的因果推断统计方法及其在RCEP 区域政策评估中的应用研究"（2026LZ004）、"2026/09-2028/08"、进行中、**主持**
+
 * **中国高等教育学会“2025年度高等教育科学研究规划课题”重点课题**、 "基于“专业-产业-就业”三元协同的智能化产教融合路径探索"、"2025/12-2027/12"、进行中、**主持**
 
 * **2024年度上海市哲学社会科学规划课题一般项目**、 "金融强国指数视角下的上海高水平金融对外开放探索研究（2024JG064-BJB532）"、 "2024/12-2025/11"、 进行中、 **主持**
