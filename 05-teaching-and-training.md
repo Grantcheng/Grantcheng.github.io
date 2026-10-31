@@ -13,9 +13,9 @@ permalink: /teaching-and-training/
     <tr><th>No.</th><th>Semester</th><th>Course</th><th>Student</th><th>Links</th></tr>
   </thead>
   <tbody>
-         <tr><td>21</td><td>2025 Fall  </td><td>Python语言与数据挖掘 </td><td>Undergraduate Student (2026级应用统计专硕)              </td>
+         <tr><td>21</td><td>2026 Fall  </td><td>Python语言与数据挖掘 </td><td>Undergraduate Student (2026级应用统计专硕)              </td>
         <td><a href="https://mooc1.chaoxing.com/course-ans/ps/5OYMezlY_-eIoBRgqVA4sQ==">Link</a></td></tr>
-     <tr><td>21</td><td>2025 Fall  </td><td>金融时间序列分析与实践 </td><td>Undergraduate Student (2024级金融科技)              </td>
+     <tr><td>21</td><td>2026 Fall  </td><td>金融时间序列分析与实践 </td><td>Undergraduate Student (2024级金融科技)              </td>
         <td><a href="https://mooc1.chaoxing.com/course-ans/ps/9Ofo1Hs9FKH9wAcQnWnXQQ==">Link</a></td></tr>
         <tr><td>21</td><td>2025 Fall  </td><td>金融数据挖掘与机器学习 (Financial Data Mining and Machine Learning)  </td><td>Undergraduate Student (2022级金融科技)              </td>
         <td><a href="https://grantcheng.github.io/SLU-ML-labs">Link</a></td></tr>
