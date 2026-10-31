@@ -13,6 +13,10 @@ He was a visiting scholar at the Courant Institute of Mathematical Sciences (CIM
 His research interests include financial statistics and risk management, artificial intelligence and its applications, causal inference, and computational and theoretical neuroscience. He is a 2016 Shanghai “Sailing Scholar”, a Senior Member of the China Computer Federation (CCF), and an AC Member of CCF YOCSEF Shanghai. He serves as a reviewer for journals including Computational Economics and Economic Modelling.
 
 ## Recent News
+* 28/10/2026, 程宏副教授在《上海证券报》发表[《金融可信数据空间建设 要从“安全流通”走向“价值创造”》](https://www.cnstock.com/commonDetail/816261?timestap=1793181727234)文章
+
+* 12/10/2026, 程宏副教授在《澎湃》全球智库发表[《上海如何把金融市场规模优势转化为全球资源配置能力》](https://m.thepaper.cn/newsDetail_forward_34225781)文章
+  
 * 08/09/2026, 程宏副教授 申报的《基于高维数据的因果推断统计方法及其在RCEP 区域政策评估中的应用研究》（Grant No.2026LZ004）获2026年度全国统计科学研究重点项目立项
 
 * 20/04/2026, Yixiong Xu, Feipeng Zhang, Caiyun Fan, Hong Cheng & Xu Liu. "[Time-varying causal effects between green finance and traditional financial markets in China: evidence from a multi-frequency perspective](https://doi.org/10.1080/00036846.2026.2661880)" has been accepted for publication in Applied Economics
